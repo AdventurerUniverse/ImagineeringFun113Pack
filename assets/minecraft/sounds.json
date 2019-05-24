@@ -1,0 +1,12 @@
+{
+
+"entry.whistle":{
+"sounds":[{"name":"entrywhistle","stream":false}],"category":"master"},
+
+"entry.generic":{
+"sounds":[{"name":"entrysound","stream":false}],"category":"master"},
+
+"fastpass.redeem":{
+"sounds":[{"name":"fastpass","stream":false}],"category":"master"}
+
+}

@@ -1,0 +1,281 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/iron_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "damage": 0.004,
+        "damaged": 1
+      },
+      "model": "item/pokemon/001"
+    },
+    {
+      "predicate": {
+        "damage": 0.008,
+        "damaged": 1
+      },
+      "model": "item/hat/tophatbrown"
+    },
+    {
+      "predicate": {
+        "damage": 0.012,
+        "damaged": 1
+      },
+      "model": "item/pet/bb8"
+    },
+    {
+      "predicate": {
+        "damage": 0.016,
+        "damaged": 1
+      },
+      "model": "item/tiki_fountain"
+    },
+    {
+      "predicate": {
+        "damage": 0.02,
+        "damaged": 1
+      },
+      "model": "item/tiki_enter_sign"
+    },
+    {
+      "predicate": {
+        "damage": 0.024,
+        "damaged": 1
+      },
+      "model": "item/brickhead/mickey"
+    },
+    {
+      "predicate": {
+        "damage": 0.028,
+        "damaged": 1
+      },
+      "model": "item/brickhead/minnie"
+    },
+    {
+      "predicate": {
+        "damage": 0.032,
+        "damaged": 1
+      },
+      "model": "item/brickhead/elsa"
+    },
+    {
+      "predicate": {
+        "damage": 0.036,
+        "damaged": 1
+      },
+      "model": "item/brickhead/bob"
+    },
+    {
+      "predicate": {
+        "damage": 0.040,
+        "damaged": 1
+      },
+      "model": "item/brickhead/ariel"
+    },
+    {
+      "predicate": {
+        "damage": 0.044,
+        "damaged": 1
+      },
+      "model": "item/brickhead/thanos"
+    },
+    {
+      "predicate": {
+        "damage": 0.048,
+        "damaged": 1
+      },
+      "model": "item/brickhead/iron"
+    },
+    {
+      "predicate": {
+        "damage": 0.052,
+        "damaged": 1
+      },
+      "model": "item/brickhead/spiderman"
+    },
+    {
+      "predicate": {
+        "damage": 0.056,
+        "damaged": 1
+      },
+      "model": "item/brickhead/spidertom"
+    },
+    {
+      "predicate": {
+        "damage": 0.060,
+        "damaged": 1
+      },
+      "model": "item/brickhead/peter"
+    },
+    {
+      "predicate": {
+        "damage": 0.064,
+        "damaged": 1
+      },
+      "model": "item/brickhead/kuzco"
+    },
+    {
+      "predicate": {
+        "damage": 0.068,
+        "damaged": 1
+      },
+      "model": "item/brickhead/porg"
+    },
+    {
+      "predicate": {
+        "damage": 0.072,
+        "damaged": 1
+      },
+      "model": "item/brickhead/yoda"
+    },
+    {
+      "predicate": {
+        "damage": 0.076,
+        "damaged": 1
+      },
+      "model": "item/brickhead/buzz"
+    },
+    {
+      "predicate": {
+        "damage": 0.080,
+        "damaged": 1
+      },
+      "model": "item/brickhead/deadpool"
+    },
+    {
+      "predicate": {
+        "damage": 0.084,
+        "damaged": 1
+      },
+      "model": "item/brickhead/groot"
+    },
+    {
+      "predicate": {
+        "damage": 0.088,
+        "damaged": 1
+      },
+      "model": "item/brickhead/rocket"
+    },
+    {
+      "predicate": {
+        "damage": 0.092,
+        "damaged": 1
+      },
+      "model": "item/brickhead/rey"
+    },
+    {
+      "predicate": {
+        "damage": 0.096,
+        "damaged": 1
+      },
+      "model": "item/brickhead/vision"
+    },
+    {
+      "predicate": {
+        "damage": 0.100,
+        "damaged": 1
+      },
+      "model": "item/brickhead/donald"
+    },
+    {
+      "predicate": {
+        "damage": 0.104,
+        "damaged": 1
+      },
+      "model": "item/tropical_sign"
+    },
+    {
+      "predicate": {
+        "damage": 0.108,
+        "damaged": 1
+      },
+      "model": "item/brickhead/chell"
+    },
+    {
+      "predicate": {
+        "damage": 0.112,
+        "damaged": 1
+      },
+      "model": "item/brickhead/eboy"
+    },
+    {
+      "predicate": {
+        "damage": 0.116,
+        "damaged": 1
+      },
+      "model": "item/brickhead/todoroki"
+    },
+    {
+      "predicate": {
+        "damage": 0.120,
+        "damaged": 1
+      },
+      "model": "item/brickhead/nemo"
+    },
+    {
+      "predicate": {
+        "damage": 0.124,
+        "damaged": 1
+      },
+      "model": "item/brickhead/dory"
+    },
+    {
+      "predicate": {
+        "damage": 0.128,
+        "damaged": 1
+      },
+      "model": "item/brickhead/kastle"
+    },
+    {
+      "predicate": {
+        "damage": 0.132,
+        "damaged": 1
+      },
+      "model": "item/brickhead/froppy"
+    },
+    {
+      "predicate": {
+        "damage": 0.136,
+        "damaged": 1
+      },
+      "model": "item/brickhead/oswald"
+    },
+    {
+      "predicate": {
+        "damage": 0.140,
+        "damaged": 1
+      },
+      "model": "item/brickhead/judy"
+    },
+    {
+      "predicate": {
+        "damage": 0.144,
+        "damaged": 1
+      },
+      "model": "item/brickhead/piglet"
+    },
+    {
+      "predicate": {
+        "damage": 0.148,
+        "damaged": 1
+      },
+      "model": "item/brickhead/roger"
+    },
+    {
+      "predicate": {
+        "damage": 0.152,
+        "damaged": 1
+      },
+      "model": "item/brickhead/brer"
+    },
+    {
+      "predicate": {
+        "damage": 0.156,
+        "damaged": 1
+      },
+      "model": "item/brickhead/cap"
+    }
+  ]
+}

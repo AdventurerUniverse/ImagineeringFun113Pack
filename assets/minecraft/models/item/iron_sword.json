@@ -1,0 +1,442 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/iron_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "damage": 0.004,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_body_blue"
+    },
+    {
+      "predicate": {
+        "damage": 0.008,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_head_blue"
+    },
+    {
+      "predicate": {
+        "damage": 0.012,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_head_red"
+    },
+    {
+      "predicate": {
+        "damage": 0.016,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_head_purple"
+    },
+    {
+      "predicate": {
+        "damage": 0.02,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_head_orange"
+    },
+    {
+      "predicate": {
+        "damage": 0.024,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_head_green"
+    },
+    {
+      "predicate": {
+        "damage": 0.028,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_full_blue"
+    },
+    {
+      "predicate": {
+        "damage": 0.032,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_full_purple"
+    },
+    {
+      "predicate": {
+        "damage": 0.036,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_full_red"
+    },
+    {
+      "predicate": {
+        "damage": 0.040,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_full_orange"
+    },
+    {
+      "predicate": {
+        "damage": 0.044,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_full_green"
+    },
+    {
+      "predicate": {
+        "damage": 0.048,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_head_red"
+    },
+    {
+      "predicate": {
+        "damage": 0.052,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_head_black"
+    },
+    {
+      "predicate": {
+        "damage": 0.056,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_head_blue"
+    },
+    {
+      "predicate": {
+        "damage": 0.060,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_head_green"
+    },
+    {
+      "predicate": {
+        "damage": 0.064,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_head_purple"
+    },
+    {
+      "predicate": {
+        "damage": 0.068,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_head_orange"
+    },
+    {
+      "predicate": {
+        "damage": 0.072,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_red"
+    },
+    {
+      "predicate": {
+        "damage": 0.076,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_black"
+    },
+    {
+      "predicate": {
+        "damage": 0.080,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_full_blue_ears"
+    },
+    {
+      "predicate": {
+        "damage": 0.084,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_halloween"
+    },
+    {
+      "predicate": {
+        "damage": 0.088,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_head_yellow"
+    },
+    {
+      "predicate": {
+        "damage": 0.092,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_head_pink"
+    },
+    {
+      "predicate": {
+        "damage": 0.096,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_pink"
+    },
+    {
+      "predicate": {
+        "damage": 0.100,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_yellow"
+    },
+    {
+      "predicate": {
+        "damage": 0.104,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_full_yellow"
+    },
+    {
+      "predicate": {
+        "damage": 0.108,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_full_pink"
+    },
+    {
+      "predicate": {
+        "damage": 0.112,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_head_yellow"
+    },
+    {
+      "predicate": {
+        "damage": 0.116,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_head_pink"
+    },
+    {
+      "predicate": {
+        "damage": 0.120,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_green"
+    },
+    {
+      "predicate": {
+        "damage": 0.124,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_purple"
+    },
+    {
+      "predicate": {
+        "damage": 0.128,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_blue"
+    },
+    {
+      "predicate": {
+        "damage": 0.132,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_orange"
+    },
+    {
+      "predicate": {
+        "damage": 0.136,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_full_orange"
+    },
+    {
+      "predicate": {
+        "damage": 0.140,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_full_red"
+    },
+    {
+      "predicate": {
+        "damage": 0.144,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_full_yellow"
+    },
+    {
+      "predicate": {
+        "damage": 0.148,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_full_pink"
+    },
+    {
+      "predicate": {
+        "damage": 0.152,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_full_blue"
+    },
+    {
+      "predicate": {
+        "damage": 0.156,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_full_green"
+    },
+    {
+      "predicate": {
+        "damage": 0.160,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_full_purple"
+    },
+    {
+      "predicate": {
+        "damage": 0.164,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_head_purple"
+    },
+    {
+      "predicate": {
+        "damage": 0.168,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_head_red"
+    },
+    {
+      "predicate": {
+        "damage": 0.172,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_head_pink"
+    },
+    {
+      "predicate": {
+        "damage": 0.176,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_head_blue"
+    },
+    {
+      "predicate": {
+        "damage": 0.180,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_head_green"
+    },
+    {
+      "predicate": {
+        "damage": 0.184,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_head_yellow"
+    },
+    {
+      "predicate": {
+        "damage": 0.188,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_head_orange"
+    },
+    {
+      "predicate": {
+        "damage": 0.192,
+        "damaged": 1
+      },
+      "model": "item/droid/r3_full_s2"
+    },
+    {
+      "predicate": {
+        "damage": 0.196,
+        "damaged": 1
+      },
+      "model": "item/droid/r3_full_33"
+    },
+    {
+      "predicate": {
+        "damage": 0.2,
+        "damaged": 1
+      },
+      "model": "item/droid/r3_head_s2"
+    },
+    {
+      "predicate": {
+        "damage": 0.204,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_d23"
+    },
+    {
+      "predicate": {
+        "damage": 0.208,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_oswald"
+    },
+    {
+      "predicate": {
+        "damage": 0.212,
+        "damaged": 1
+      },
+      "model": "item/droid/r6_full_gwts"
+    },
+    {
+      "predicate": {
+        "damage": 0.216,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_full_gwts"
+    },
+    {
+      "predicate": {
+        "damage": 0.22,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_gwts"
+    },
+    {
+      "predicate": {
+        "damage": 0.224,
+        "damaged": 1
+      },
+      "model": "item/droid/r2_full_b1"
+    },
+    {
+      "predicate": {
+        "damage": 0.228,
+        "damaged": 1
+      },
+      "model": "item/droid/r3_full_t2"
+    },
+    {
+      "predicate": {
+        "damage": 0.232,
+        "damaged": 1
+      },
+      "model": "item/droid/r3_head_t2"
+    },
+    {
+      "predicate": {
+        "damage": 0.236,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_a2"
+    },
+    {
+      "predicate": {
+        "damage": 0.24,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_head_a2"
+    },
+    {
+      "predicate": {
+        "damage": 0.244,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_head_u8"
+    },
+    {
+      "predicate": {
+        "damage": 0.248,
+        "damaged": 1
+      },
+      "model": "item/droid/r5_full_u8"
+    }
+  ]
+}
