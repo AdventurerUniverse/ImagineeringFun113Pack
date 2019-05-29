@@ -1,0 +1,25 @@
+{
+	"name": "ImagineeringFun113Pack",
+	"version": "1.1.1",
+	"description": "A resource pack for the Imagineering Fun minecraft server. All models are created by Slinx and Mouskegamer. Visit http://imagineering.fun/ for more information.",
+	"keywords": [
+		"server",
+		"resource",
+		"minecraft",
+		"imaginearing",
+		"pack"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Kas-tle/ImagineeringFun113Pack.git"
+	},
+	"scripts": {
+		"release": "release-it"
+	},
+	"homepage": "https://github.com/Kas-tle/ImagineeringFun113Pack#readme",
+	"bugs": "https://github.com/Kas-tle/ImagineeringFun113Pack/issues",
+	"author": {
+		"email": "models@kastle.tk",
+		"name": "Kastle"
+	}
+}
