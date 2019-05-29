@@ -1,1058 +1,1486 @@
 {
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/diamond_sword"
-  },
-  "overrides": [
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+    "overrides": [
     {
-      "predicate": {
-        "damage": 0.00064061499,
-        "damaged": 1
+        "predicate": {
+            "damage": 0.00064061499,
+            "damaged": 1
       },
       "model": "item/disneyland_castle"
     },
     {
-      "predicate": {
-        "damage": 0.00128122998,
-        "damaged": 1
-      },
-      "model": "item/matterhorn_yeti"
+          "predicate": {
+            "damage": 0.00128122998,
+            "damaged": 1
+          },
+            "model": "item/matterhorn_yeti"
     },
     {
-      "predicate": {
-        "damage": 0.00192184497,
-        "damaged": 1
-      },
-      "model": "item/door/alice_door_cards"
+          "predicate": {
+            "damage": 0.00192184497,
+            "damaged": 1
+          },
+            "model": "item/door/alice_door_cards"
     },
     {
-      "predicate": {
-        "damage": 0.00256245996,
-        "damaged": 1
-      },
-      "model": "item/door/alice_door_01"
+          "predicate": {
+            "damage": 0.00256245996,
+            "damaged": 1
+          },
+            "model": "item/door/alice_door_01"
     },
     {
-      "predicate": {
-        "damage": 0.00320307495,
-        "damaged": 1
-      },
-      "model": "item/alice/alice_tree_red"
+          "predicate": {
+            "damage": 0.00320307495,
+            "damaged": 1
+          },
+            "model": "item/alice/alice_tree_red"
     },
     {
-      "predicate": {
-        "damage": 0.00384368994,
-        "damaged": 1
-      },
-      "model": "item/alice/alice_tree_white"
+          "predicate": {
+            "damage": 0.00384368994,
+            "damaged": 1
+          },
+            "model": "item/alice/alice_tree_white"
     },
     {
-      "predicate": {
-        "damage": 0.00448430493,
-        "damaged": 1
-      },
-      "model": "item/alice/alice_tree_both"
+          "predicate": {
+            "damage": 0.00448430493,
+            "damaged": 1
+          },
+            "model": "item/alice/alice_tree_both"
     },
     {
-      "predicate": {
-        "damage": 0.00512491992,
-        "damaged": 1
-      },
-      "model": "item/alice/alice_cat_spin"
+          "predicate": {
+            "damage": 0.00512491992,
+            "damaged": 1
+          },
+            "model": "item/alice/alice_cat_spin"
     },
     {
-      "predicate": {
-        "damage": 0.00576553491,
-        "damaged": 1
-      },
-      "model": "item/alice/alice_cards_black_01"
+          "predicate": {
+            "damage": 0.00576553491,
+            "damaged": 1
+          },
+            "model": "item/alice/alice_cards_black_01"
     },
     {
-      "predicate": {
-        "damage": 0.0064061499,
-        "damaged": 1
-      },
-      "model": "item/alice/alice_cards_black_02"
+          "predicate": {
+            "damage": 0.0064061499,
+            "damaged": 1
+          },
+            "model": "item/alice/alice_cards_black_02"
     },
     {
-      "predicate": {
-        "damage": 0.00704676489,
-        "damaged": 1
-      },
-      "model": "item/alice/alice_toy_watch"
+          "predicate": {
+            "damage": 0.00704676489,
+            "damaged": 1
+          },
+            "model": "item/alice/alice_toy_watch"
     },
     {
-      "predicate": {
-        "damage": 0.00768737988,
-        "damaged": 1
-      },
-      "model": "item/alice/alice_cards_red_circle"
+          "predicate": {
+            "damage": 0.00768737988,
+            "damaged": 1
+          },
+            "model": "item/alice/alice_cards_red_circle"
     },
     {
-      "predicate": {
-        "damage": 0.00832799487,
-        "damaged": 1
-      },
-      "model": "item/door/alice_door_darkwood"
+          "predicate": {
+            "damage": 0.00832799487,
+            "damaged": 1
+          },
+            "model": "item/door/alice_door_darkwood"
     },
     {
-      "predicate": {
-        "damage": 0.00896860986,
-        "damaged": 1
-      },
-      "model": "item/door/coal_block_door_01"
+          "predicate": {
+            "damage": 0.00896860986,
+            "damaged": 1
+          },
+            "model": "item/door/coal_block_door_01"
     },
     {
-      "predicate": {
-        "damage": 0.00960922485,
-        "damaged": 1
-      },
-      "model": "item/genies_lamp"
+          "predicate": {
+            "damage": 0.00960922485,
+            "damaged": 1
+          },
+            "model": "item/genies_lamp"
     },
     {
-      "predicate": {
-        "damage": 0.01024983984,
-        "damaged": 1
-      },
-      "model": "item/cart/island_raft"
+          "predicate": {
+            "damage": 0.01024983984,
+            "damaged": 1
+          },
+            "model": "item/cart/island_raft"
     },
     {
-      "predicate": {
-        "damage": 0.010890454836643,
-        "damaged": 1
-      },
-      "model": "item/ariel_octopus"
+          "predicate": {
+            "damage": 0.010890454836643,
+            "damaged": 1
+          },
+            "model": "item/ariel_octopus"
     },
     {
-      "predicate": {
-        "damage": 0.011531069827034,
-        "damaged": 1
-      },
-      "model": "item/indy_boulder"
+          "predicate": {
+            "damage": 0.011531069827034,
+            "damaged": 1
+          },
+            "model": "item/indy_boulder"
     },
     {
-      "predicate": {
-        "damage": 0.012171684817425,
-        "damaged": 1
-      },
-      "model": "item/woc_light_tower"
+          "predicate": {
+            "damage": 0.012171684817425,
+            "damaged": 1
+          },
+            "model": "item/woc_light_tower"
     },
     {
-      "predicate": {
-        "damage": 0.012812299807816,
-        "damaged": 1
-      },
-      "model": "item/tie_fighter"
+          "predicate": {
+            "damage": 0.012812299807816,
+            "damaged": 1
+          },
+            "model": "item/tie_fighter"
     },
     {
-      "predicate": {
-        "damage": 0.013452914798206,
-        "damaged": 1
-      },
-      "model": "item/x_wing_fighter"
+          "predicate": {
+            "damage": 0.013452914798206,
+            "damaged": 1
+          },
+            "model": "item/x_wing_fighter"
     },
     {
-      "predicate": {
-        "damage": 0.014093529788597,
-        "damaged": 1
-      },
-      "model": "item/dcasign/dcasign_disney"
+          "predicate": {
+            "damage": 0.014093529788597,
+            "damaged": 1
+          },
+            "model": "item/dcasign/dcasign_disney"
     },
     {
-      "predicate": {
-        "damage": 0.014734144778988,
-        "damaged": 1
-      },
-      "model": "item/dcasign/dcasign_cali"
+          "predicate": {
+            "damage": 0.014734144778988,
+            "damaged": 1
+          },
+            "model": "item/dcasign/dcasign_cali"
     },
     {
-      "predicate": {
-        "damage": 0.015374759769379,
-        "damaged": 1
-      },
-      "model": "item/dcasign/dcasign_fornia"
+          "predicate": {
+            "damage": 0.015374759769379,
+            "damaged": 1
+          },
+            "model": "item/dcasign/dcasign_fornia"
     },
     {
-      "predicate": {
-        "damage": 0.016015374759769,
-        "damaged": 1
-      },
-      "model": "item/dcasign/dcasign_adven"
+          "predicate": {
+            "damage": 0.016015374759769,
+            "damaged": 1
+          },
+            "model": "item/dcasign/dcasign_adven"
     },
     {
-      "predicate": {
-        "damage": 0.01665598975016,
-        "damaged": 1
-      },
-      "model": "item/dcasign/dcasign_ture"
+          "predicate": {
+            "damage": 0.01665598975016,
+            "damaged": 1
+          },
+            "model": "item/dcasign/dcasign_ture"
     },
     {
-      "predicate": {
-        "damage": 0.017296604740551,
-        "damaged": 1
-      },
-      "model": "item/chernabog_body"
-    },
-    {
-      "predicate": {
-        "damage": 0.017937219730942,
-        "damaged": 1
-      },
-      "model": "item/chernabog_head"
-    },
-    {
-      "predicate": {
-        "damage": 0.018577834721332,
-        "damaged": 1
-      },
-      "model": "item/trolley_01"
-    },
-    {
-      "predicate": {
-        "damage": 0.019218449711723,
-        "damaged": 1
-      },
-      "model": "item/trolley/wigwag_01"
-    },
-    {
-      "predicate": {
-        "damage": 0.019859064702114,
-        "damaged": 1
-      },
-      "model": "item/wigwag_still"
-    },
-    {
-      "predicate": {
-        "damage": 0.020499679692505,
-        "damaged": 1
-      },
-      "model": "item/pet/sebastian"
-    },
-    {
-      "predicate": {
-        "damage": 0.021140294682896,
-        "damaged": 1
-      },
-      "model": "item/las_vegas_sign"
-    },
-    {
-      "predicate": {
-        "damage": 0.021780909673286,
-        "damaged": 1
-      },
-      "model": "item/tie_interceptor"
-    },
-    {
-      "predicate": {
-        "damage": 0.022421524663677,
-        "damaged": 1
-      },
-      "model": "item/arc_170_fighter"
-    },
-    {
-      "predicate": {
-        "damage": 0.023062139654068,
-        "damaged": 1
-      },
-      "model": "item/hockey_stick"
-    },
-    {
-      "predicate": {
-        "damage": 0.023702754644459,
-        "damaged": 1
-      },
-      "model": "item/vader"
-    },
-    {
-      "predicate": {
-        "damage": 0.02562459961,
-        "damaged": 1
-      },
-      "model": "item/tritontrident"
-    },
-    {
-      "predicate": {
-        "damage": 0.0262652146,
-        "damaged": 1
-      },
-      "model": "item/mickeymagicpaintbrush"
-    },
-    {
-      "predicate": {
-        "damage": 0.0269058296,
-        "damaged": 1
-      },
-      "model": "item/trainstation_clock_base"
-    },
-    {
-      "predicate": {
-        "damage": 0.02754644458,
-        "damaged": 1
-      },
-      "model": "item/trainstation_clock_hand"
-    },
-    {
-      "predicate": {
-        "damage": 0.02818705957,
-        "damaged": 1
-      },
-      "model": "item/thor_hammer"
-    },
-    {
-      "predicate": {
-        "damage": 0.0288276746,
-        "damaged": 1
-      },
-      "model": "item/plaque"
-    },
-    {
-      "predicate": {
-        "damage": 0.0294682896,
-        "damaged": 1
-      },
-      "model": "item/sbcastle_post"
-    },
-    {
-      "predicate": {
-        "damage": 0.03010890454,
-        "damaged": 1
-      },
-      "model": "item/switch"
-    },
-    {
-      "predicate": {
-        "damage": 0.0307495195,
-        "damaged": 1
-      },
-      "model": "item/startoursmarquee"
-    },
-    {
-      "predicate": {
-        "damage": 0.0313901345,
-        "damaged": 1
-      },
-      "model": "item/target"
-    },
-    {
-      "predicate": {
-        "damage": 0.0320307495,
-        "damaged": 1
-      },
-      "model": "item/dinococup1"
-    },
-    {
-      "predicate": {
-        "damage": 0.0326713645,
-        "damaged": 1
-      },
-      "model": "item/dinococup2"
-    },
-    {
-      "predicate": {
-        "damage": 0.0333119795,
-        "damaged": 1
-      },
-      "model": "item/dinococup3"
-    },
-    {
-      "predicate": {
-        "damage": 0.0339525945,
-        "damaged": 1
-      },
-      "model": "item/jarofdirt"
-    },
-    {
-      "predicate": {
-        "damage": 0.0345932095,
-        "damaged": 1
-      },
-      "model": "item/starwand"
-    },
-    {
-      "predicate": {
-        "damage": 0.03523382447,
-        "damaged": 1
-      },
-      "model": "item/puddingcan"
-    },
-    {
-      "predicate": {
-        "damage": 0.0358744395,
-        "damaged": 1
-      },
-      "model": "item/nemo/seagulls_nemo2"
-    },
-    {
-      "predicate": {
-        "damage": 0.03651505445,
-        "damaged": 1
-      },
-      "model": "item/hiddenmickey"
-    },
-    {
-      "predicate": {
-        "damage": 0.03715566944,
-        "damaged": 1
-      },
-      "model": "item/screamcan"
-    },
-    {
-      "predicate": {
-        "damage": 0.03779628443,
-        "damaged": 1
-      },
-      "model": "item/fryingpan"
-    },
-    {
-      "predicate": {
-        "damage": 0.03843689942,
-        "damaged": 1
-      },
-      "model": "item/lamppost_19"
-    },
-    {
-      "predicate": {
-        "damage": 0.0390775144,
-        "damaged": 1
-      },
-      "model": "item/keyblade"
-    },
-    {
-      "predicate": {
-        "damage": 0.0397181294,
-        "damaged": 1
-      },
-      "model": "item/stormbreaker"
-    },
-    {
-      "predicate": {
-        "damage": 0.0403587444,
-        "damaged": 1
-      },
-      "model": "item/fireworks/tfshow_cocoskull"
-    },
-    {
-      "predicate": {
-        "damage": 0.04099935938,
-        "damaged": 1
-      },
-      "model": "item/fireworks/tfshow_rocket"
-    },
-    {
-      "predicate": {
-        "damage": 0.0416399744,
-        "damaged": 1
-      },
-      "model": "item/fireworks/tfshow_monstersinc"
-    },
-    {
-      "predicate": {
-        "damage": 0.0422805894,
-        "damaged": 1
-      },
-      "model": "item/pecosbillgun"
-    },
-    {
-      "predicate": {
-        "damage": 0.0429212044,
-        "damaged": 1
-      },
-      "model": "item/kermitsbanjo"
-    },
-    {
-      "predicate": {
-        "damage": 0.0435618193,
-        "damaged": 1
-      },
-      "model": "item/robinhoodvhs"
-    },
-    {
-      "predicate": {
-        "damage": 0.0442024343,
-        "damaged": 1
-      },
-      "model": "item/hanblaster"
-    },
-    {
-      "predicate": {
-        "damage": 0.04484304932,
-        "damaged": 1
-      },
-      "model": "item/cart/mrtoadvehicle"
-    },
-    {
-      "predicate": {
-        "damage": 0.04548366431,
-        "damaged": 1
-      },
-      "model": "item/lifthillstars01"
-    },
-    {
-      "predicate": {
-        "damage": 0.0461242793,
-        "damaged": 1
-      },
-      "model": "item/lifthillstars02"
-    },
-    {
-      "predicate": {
-        "damage": 0.04676489429,
-        "damaged": 1
-      },
-      "model": "item/powertransfer01"
-    },
-    {
-      "predicate": {
-        "damage": 0.04740550928,
-        "damaged": 1
-      },
-      "model": "item/powertransfer02"
-    },
-    {
-      "predicate": {
-        "damage": 0.0480461243,
-        "damaged": 1
-      },
-      "model": "item/jungle_sign_ent"
-    },
-    {
-      "predicate": {
-        "damage": 0.04868673926,
-        "damaged": 1
-      },
-      "model": "item/boat"
-    },
-    {
-      "predicate": {
-        "damage": 0.04932735426,
-        "damaged": 1
-      },
-      "model": "item/cart/spacemountain"
-    },
-    {
-      "predicate": {
-        "damage": 0.04996796925,
-        "damaged": 1
-      },
-      "model": "item/cart/spacemountainold"
-    },
-    {
-      "predicate": {
-        "damage": 0.05060858424,
-        "damaged": 1
-      },
-      "model": "item/frozentreats"
-    },
-    {
-      "predicate": {
-        "damage": 0.05124919923,
-        "damaged": 1
-      },
-      "model": "item/dumbotimothytopper"
-    },
-    {
-      "predicate": {
-        "damage": 0.05188981422,
-        "damaged": 1
-      },
-      "model": "item/celebratebutton"
-    },
-    {
-      "predicate": {
-        "damage": 0.05253042921,
-        "damaged": 1
-      },
-      "model": "item/pinocchiodoor"
-    },
-    {
-      "predicate": {
-        "damage": 0.0531710442,
-        "damaged": 1
-      },
-      "model": "item/monstro"
-    },
-    {
-      "predicate": {
-        "damage": 0.05381165919,
-        "damaged": 1
-      },
-      "model": "item/marypoppinsumbrella"
-    },
-    {
-      "predicate": {
-        "damage": 0.05445227418,
-        "damaged": 1
-      },
-      "model": "item/thanosblade"
-    },
-    {
-      "predicate": {
-        "damage": 0.05509288917,
-        "damaged": 1
-      },
-      "model": "item/cart/nw_train"
-    },
-    {
-      "predicate": {
-        "damage": 0.05573350416,
-        "damaged": 1
-      },
-      "model": "item/dynamite"
-    },
-    {
-      "predicate": {
-        "damage": 0.05637411915,
-        "damaged": 1
-      },
-      "model": "item/captainhookhook"
-    },
-    {
-      "predicate": {
-        "damage": 0.05701473414,
-        "damaged": 1
-      },
-      "model": "item/nbc_duck"
-    },
-    {
-      "predicate": {
-        "damage": 0.05765534913,
-        "damaged": 1
-      },
-      "model": "item/ghostgalaxy1"
-    },
-    {
-      "predicate": {
-        "damage": 0.05829596412,
-        "damaged": 1
-      },
-      "model": "item/ghostgalaxy2"
-    },
-    {
-      "predicate": {
-        "damage": 0.05893657911,
-        "damaged": 1
-      },
-      "model": "item/btm_trex"
-    },
-    {
-      "predicate": {
-        "damage": 0.0595771941,
-        "damaged": 1
-      },
-      "model": "item/btm_trex02"
-    },
-    {
-      "predicate": {
-        "damage": 0.0602178091,
-        "damaged": 1
-      },
-      "model": "item/turnstile"
-    },
-    {
-      "predicate": {
-        "damage": 0.0608584241,
-        "damaged": 1
-      },
-      "model": "item/alicebook"
-    },
-    {
-      "predicate": {
-        "damage": 0.06149903907,
-        "damaged": 1
-      },
-      "model": "item/alice/redaliceflower"
-    },
-    {
-      "predicate": {
-        "damage": 0.06213965406,
-        "damaged": 1
-      },
-      "model": "item/alice/dandylion"
-    },
-    {
-      "predicate": {
-        "damage": 0.06278026905,
-        "damaged": 1
-      },
-      "model": "item/lamp_storybookland"
-    },
-    {
-      "predicate": {
-        "damage": 0.06342088404,
-        "damaged": 1
-      },
-      "model": "item/stocking_donald"
-    },
-    {
-      "predicate": {
-        "damage": 0.06406149903,
-        "damaged": 1
-      },
-      "model": "item/stocking"
-    },
-    {
-      "predicate": {
-        "damage": 0.06470211402,
-        "damaged": 1
-      },
-      "model": "item/stocking_goofy"
-    },
-    {
-      "predicate": {
-        "damage": 0.06534272901,
-        "damaged": 1
-      },
-      "model": "item/stocking_mickey"
-    },
-    {
-      "predicate": {
-        "damage": 0.06598334401,
-        "damaged": 1
-      },
-      "model": "item/stocking_bb8"
-    },
-    {
-      "predicate": {
-        "damage": 0.066623959,
-        "damaged": 1
-      },
-      "model": "item/stocking_buzz"
-    },
-    {
-      "predicate": {
-        "damage": 0.06726457399,
-        "damaged": 1
-      },
-      "model": "item/stocking_hatbox"
-    },
-    {
-      "predicate": {
-        "damage": 0.06790518898,
-        "damaged": 1
-      },
-      "model": "item/potc_lantern"
-    },
-    {
-      "predicate": {
-        "damage": 0.06854580397,
-        "damaged": 1
-      },
-      "model": "item/potc_jollyroger"
-    },
-    {
-      "predicate": {
-        "damage": 0.069186419,
-        "damaged": 1
-      },
-      "model": "item/potc_sword"
-    },
-    {
-      "predicate": {
-        "damage": 0.069827034,
-        "damaged": 1
-      },
-      "model": "item/potc_helm"
-    },
-    {
-      "predicate": {
-        "damage": 0.0704676489,
-        "damaged": 1
-      },
-      "model": "item/esplanadelamp01"
-    },
-    {
-      "predicate": {
-        "damage": 0.0711082639,
-        "damaged": 1
-      },
-      "model": "item/esplanadelamp02"
-    },
-    {
-      "predicate": {
-        "damage": 0.0717488789,
-        "damaged": 1
-      },
-      "model": "item/potc_changingskeleton"
-    },
-    {
-      "predicate": {
-        "damage": 0.0723894939,
-        "damaged": 1
-      },
-      "model": "item/potc_cannon"
-    },
-    {
-      "predicate": {
-        "damage": 0.0730301089,
-        "damaged": 1
-      },
-      "model": "item/keybladeblue"
-    },
-    {
-      "predicate": {
-        "damage": 0.07367072389,
-        "damaged": 1
-      },
-      "model": "item/potc/potc_sign01"
-    },
-    {
-      "predicate": {
-        "damage": 0.07431133888,
-        "damaged": 1
-      },
-      "model": "item/crystal"
-    },
-    {
-      "predicate": {
-        "damage": 0.07495195387,
-        "damaged": 1
-      },
-      "model": "item/cart/snowwhite"
-    },
-    {
-      "predicate": {
-        "damage": 0.07559256886,
-        "damaged": 1
-      },
-      "model": "item/door/castledoor"
-    },
-    {
-      "predicate": {
-        "damage": 0.07623318385,
-        "damaged": 1
-      },
-      "model": "item/cart/carouselhorse"
-    },
-    {
-      "predicate": {
-        "damage": 0.0768737988,
-        "damaged": 1
-      },
-      "model": "item/potc_lafitte"
-    },
-    {
-      "predicate": {
-        "damage": 0.0775144138,
-        "damaged": 1
-      },
-      "model": "item/potc_torch"
-    },
-    {
-      "predicate": {
-        "damage": 0.07815502882,
-        "damaged": 1
-      },
-      "model": "item/indy_bullwhip"
-    },
-    {
-      "predicate": {
-        "damage": 0.07879564381,
-        "damaged": 1
-      },
-      "model": "item/populationsign"
-    },
-    {
-      "predicate": {
-        "damage": 0.07879564381,
-        "damaged": 1
-      },
-      "model": "item/populationsign"
-    },
-    {
-      "predicate": {
-        "damage": 0.0794362588,
-        "damaged": 1
-      },
-      "model": "item/indyghost"
-    },
-    {
-      "predicate": {
-        "damage": 0.08007687379,
-        "damaged": 1
-      },
-      "model": "item/indy_snake"
-    },
-    {
-      "predicate": {
-        "damage": 0.08071748878,
-        "damaged": 1
-      },
-      "model": "item/candle_holder_model"
-    },
-    {
-      "predicate": {
-        "damage": 0.08135810377,
-        "damaged": 1
-      },
-      "model": "item/hm_ceiling"
-    },
-    {
-      "predicate": {
-        "damage": 0.08199871877,
-        "damaged": 1
-      },
-      "model": "item/samantha"
-    },
-    {
-      "predicate": {
-        "damage": 0.08263933376,
-        "damaged": 1
-      },
-      "model": "item/hm_organ"
-    },
-    {
-      "predicate": {
-        "damage": 0.08327994875,
-        "damaged": 1
-      },
-      "model": "item/hm_grandfatherclock"
-    },
-    {
-      "predicate": {
-        "damage": 0.0839205637,
-        "damaged": 1
-      },
-      "model": "item/hm_stretchingroom01"
-    },
-    {
-      "predicate": {
-        "damage": 0.0845611787,
-        "damaged": 1
-      },
-      "model": "item/hm_stretchingroom02"
-    },
-    {
-      "predicate": {
-        "damage": 0.0852017937,
-        "damaged": 1
-      },
-      "model": "item/hm_stretchingroombase"
-    },
-    {
-      "predicate": {
-        "damage": 0.0858424087,
-        "damaged": 1
-      },
-      "model": "item/hm_cart"
-    },
-    {
-      "predicate": {
-        "damage": 0.0864830237,
-        "damaged": 1
-      },
-      "model": "item/hm_gargoylecandle"
-    },
-    {
-      "predicate": {
-        "damage": 0.0871236387,
-        "damaged": 1
-      },
-      "model": "item/hm_floating_candelabra"
-    },
-    {
-      "predicate": {
-        "damage": 0.08776425368,
-        "damaged": 1
-      },
-      "model": "item/hatboxghost"
-    },
-    {
-      "predicate": {
-        "damage": 0.08840486867,
-        "damaged": 1
-      },
-      "model": "item/indy_sign"
-    },
-    {
-      "predicate": {
-        "damage": 0.0890454837,
-        "damaged": 1
-      },
-      "model": "item/hm_hatbox_head_model"
-    },
-    {
-      "predicate": {
-        "damage": 0.0896860987,
-        "damaged": 1
-      },
-      "model": "item/hm_lamppost"
-    },
-    {
-      "predicate": {
-        "damage": 0.0903267136,
-        "damaged": 1
-      },
-      "model": "item/hm_carriage"
-    },
-    {
-      "predicate": {
-        "damage": 0.09096732863,
-        "damaged": 1
-      },
-      "model": "item/pager"
-    },
-    {
-      "predicate": {
-        "damage": 0.09160794362,
-        "damaged": 1
-      },
-      "model": "item/x_wing"
-    },
-    {
-      "predicate": {
-        "damage": 0.09224855861,
-        "damaged": 1
-      },
-      "model": "item/x_wing_tiny"
-    },
-    {
-      "predicate": {
-        "damage": 0.0928891736,
-        "damaged": 1
-      },
-      "model": "item/tie_fighter"
-    },
-    {
-      "predicate": {
-        "damage": 0.09352978859,
-        "damaged": 1
-      },
-      "model": "item/tie_fighter_tiny"
-    },
-    {
-      "predicate": {
-        "damage": 0.09417040358,
-        "damaged": 1
-      },
-      "model": "item/hm_organskulls"
-    },
-    {
-      "predicate": {
-        "damage": 0.0948110186,
-        "damaged": 1
-      },
-      "model": "item/hm_arch"
-    },
-    {
-      "predicate": {
-        "damage": 0.0954516336,
-        "damaged": 1
-      },
-      "model": "item/hm_plaque"
-    },
-    {
-      "predicate": {
-        "damage": 0.0960922486,
-        "damaged": 1
-      },
-      "model": "item/hm_corridorofdoors"
-    },
-    {
-      "predicate": {
-        "damage": 0.0967328635,
-        "damaged": 1
-      },
-      "model": "item/bench_model"
+          "predicate": {
+            "damage": 0.017296604740551,
+            "damaged": 1
+          },
+            "model": "item/chernabog_body"
+    },
+    {
+          "predicate": {
+            "damage": 0.017937219730942,
+            "damaged": 1
+          },
+            "model": "item/chernabog_head"
+    },
+    {
+          "predicate": {
+            "damage": 0.018577834721332,
+            "damaged": 1
+          },
+            "model": "item/trolley_01"
+    },
+    {
+          "predicate": {
+            "damage": 0.019218449711723,
+            "damaged": 1
+          },
+            "model": "item/trolley/wigwag_01"
+    },
+    {
+          "predicate": {
+            "damage": 0.019859064702114,
+            "damaged": 1
+          },
+            "model": "item/wigwag_still"
+    },
+    {
+          "predicate": {
+            "damage": 0.020499679692505,
+            "damaged": 1
+          },
+            "model": "item/pet/sebastian"
+    },
+    {
+          "predicate": {
+            "damage": 0.021140294682896,
+            "damaged": 1
+          },
+            "model": "item/las_vegas_sign"
+    },
+    {
+          "predicate": {
+            "damage": 0.021780909673286,
+            "damaged": 1
+          },
+            "model": "item/tie_interceptor"
+    },
+    {
+          "predicate": {
+            "damage": 0.022421524663677,
+            "damaged": 1
+          },
+            "model": "item/arc_170_fighter"
+    },
+    {
+          "predicate": {
+            "damage": 0.023062139654068,
+            "damaged": 1
+          },
+            "model": "item/hockey_stick"
+    },
+    {
+          "predicate": {
+            "damage": 0.023702754644459,
+            "damaged": 1
+          },
+            "model": "item/vader"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.02562459961,
+            "damaged": 1
+          },
+            "model": "item/tritontrident"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0262652146,
+            "damaged": 1
+          },
+            "model": "item/mickeymagicpaintbrush"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0269058296,
+            "damaged": 1
+          },
+            "model": "item/trainstation_clock_base"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.02754644458,
+            "damaged": 1
+          },
+            "model": "item/trainstation_clock_hand"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.02818705957,
+            "damaged": 1
+          },
+            "model": "item/thor_hammer"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0288276746,
+            "damaged": 1
+          },
+            "model": "item/plaque"
+
+
+
+
+
+        }
+,
+    {
+          "predicate": {
+            "damage": 0.0294682896,
+            "damaged": 1
+          },
+            "model": "item/sbcastle_post"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.03010890454,
+            "damaged": 1
+          },
+            "model": "item/switch"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0307495195,
+            "damaged": 1
+          },
+            "model": "item/startoursmarquee"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0313901345,
+            "damaged": 1
+          },
+            "model": "item/target"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0320307495,
+            "damaged": 1
+          },
+            "model": "item/dinococup1"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0326713645,
+            "damaged": 1
+          },
+            "model": "item/dinococup2"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0333119795,
+            "damaged": 1
+          },
+            "model": "item/dinococup3"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0339525945,
+            "damaged": 1
+          },
+            "model": "item/jarofdirt"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0345932095,
+            "damaged": 1
+          },
+            "model": "item/starwand"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.03523382447,
+            "damaged": 1
+          },
+            "model": "item/puddingcan"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0358744395,
+            "damaged": 1
+          },
+            "model": "item/nemo/seagulls_nemo2"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.03651505445,
+            "damaged": 1
+          },
+            "model": "item/hiddenmickey"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.03715566944,
+            "damaged": 1
+          },
+            "model": "item/screamcan"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.03779628443,
+            "damaged": 1
+          },
+            "model": "item/fryingpan"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.03843689942,
+            "damaged": 1
+          },
+            "model": "item/lamppost_19"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0390775144,
+            "damaged": 1
+          },
+            "model": "item/keyblade"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0397181294,
+            "damaged": 1
+          },
+            "model": "item/stormbreaker"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0403587444,
+            "damaged": 1
+          },
+            "model": "item/fireworks/tfshow_cocoskull"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.04099935938,
+            "damaged": 1
+          },
+            "model": "item/fireworks/tfshow_rocket"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0416399744,
+            "damaged": 1
+          },
+            "model": "item/fireworks/tfshow_monstersinc"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0422805894,
+            "damaged": 1
+          },
+            "model": "item/pecosbillgun"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0429212044,
+            "damaged": 1
+          },
+            "model": "item/kermitsbanjo"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0435618193,
+            "damaged": 1
+          },
+            "model": "item/robinhoodvhs"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0442024343,
+            "damaged": 1
+          },
+            "model": "item/hanblaster"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.04484304932,
+            "damaged": 1
+          },
+            "model": "item/cart/mrtoadvehicle"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.04548366431,
+            "damaged": 1
+          },
+            "model": "item/lifthillstars01"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0461242793,
+            "damaged": 1
+          },
+            "model": "item/lifthillstars02"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.04676489429,
+            "damaged": 1
+          },
+            "model": "item/powertransfer01"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.04740550928,
+            "damaged": 1
+          },
+            "model": "item/powertransfer02"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0480461243,
+            "damaged": 1
+          },
+            "model": "item/jungle_sign_ent"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.04868673926,
+            "damaged": 1
+          },
+            "model": "item/boat"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.04932735426,
+            "damaged": 1
+          },
+            "model": "item/cart/spacemountain"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.04996796925,
+            "damaged": 1
+          },
+            "model": "item/cart/spacemountainold"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.05060858424,
+            "damaged": 1
+          },
+            "model": "item/frozentreats"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.05124919923,
+            "damaged": 1
+          },
+            "model": "item/dumbotimothytopper"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.05188981422,
+            "damaged": 1
+          },
+            "model": "item/celebratebutton"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.05253042921,
+            "damaged": 1
+          },
+            "model": "item/pinocchiodoor"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.0531710442,
+            "damaged": 1
+          },
+            "model": "item/monstro"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.05381165919,
+            "damaged": 1
+          },
+            "model": "item/marypoppinsumbrella"
+
+
+
+
+
+        },
+    {
+          "predicate": {
+            "damage": 0.05445227418,
+            "damaged": 1
+          },
+            "model": "item/thanosblade"
+
+
+
+
+
+        },    {
+          "predicate": {
+            "damage": 0.05509288917,
+            "damaged": 1
+          },
+            "model": "item/cart/nw_train"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.05573350416,
+            "damaged": 1
+          },
+            "model": "item/dynamite"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.05637411915,
+            "damaged": 1
+          },
+            "model": "item/captainhookhook"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.05701473414,
+            "damaged": 1
+          },
+            "model": "item/nbc_duck"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.05765534913,
+            "damaged": 1
+          },
+            "model": "item/ghostgalaxy1"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.05829596412,
+            "damaged": 1
+          },
+            "model": "item/ghostgalaxy2"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.05893657911,
+            "damaged": 1
+          },
+            "model": "item/btm_trex"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0595771941,
+            "damaged": 1
+          },
+            "model": "item/btm_trex02"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0602178091,
+            "damaged": 1
+          },
+            "model": "item/turnstile"
+
+
+
+
+    },	{
+          "predicate": {
+            "damage": 0.0608584241,
+            "damaged": 1
+          },
+            "model": "item/alicebook"
+
+
+
+
+    },	{
+          "predicate": {
+            "damage": 0.06149903907,
+            "damaged": 1
+          },
+            "model": "item/alice/redaliceflower"
+
+
+
+
     }
-  ]
+,	{
+          "predicate": {
+            "damage": 0.06213965406,
+            "damaged": 1
+          },
+            "model": "item/alice/dandylion"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.06278026905,
+            "damaged": 1
+          },
+            "model": "item/lamp_storybookland"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.06342088404,
+            "damaged": 1
+          },
+            "model": "item/stocking_donald"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.06406149903,
+            "damaged": 1
+          },
+            "model": "item/stocking"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.06470211402,
+            "damaged": 1
+          },
+            "model": "item/stocking_goofy"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.06534272901,
+            "damaged": 1
+          },
+            "model": "item/stocking_mickey"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.06598334401,
+            "damaged": 1
+          },
+            "model": "item/stocking_bb8"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.066623959,
+            "damaged": 1
+          },
+            "model": "item/stocking_buzz"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.06726457399,
+            "damaged": 1
+          },
+            "model": "item/stocking_hatbox"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.06790518898,
+            "damaged": 1
+          },
+            "model": "item/potc_lantern"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.06854580397,
+            "damaged": 1
+          },
+            "model": "item/potc_jollyroger"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.069186419,
+            "damaged": 1
+          },
+            "model": "item/potc_sword"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.069827034,
+            "damaged": 1
+          },
+            "model": "item/potc_helm"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0704676489,
+            "damaged": 1
+          },
+            "model": "item/esplanadelamp01"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0711082639,
+            "damaged": 1
+          },
+            "model": "item/esplanadelamp02"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0717488789,
+            "damaged": 1
+          },
+            "model": "item/potc_changingskeleton"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0723894939,
+            "damaged": 1
+          },
+            "model": "item/potc_cannon"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0730301089,
+            "damaged": 1
+          },
+            "model": "item/keybladeblue"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.07367072389,
+            "damaged": 1
+          },
+            "model": "item/potc/potc_sign01"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.07431133888,
+            "damaged": 1
+          },
+            "model": "item/crystal"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.07495195387,
+            "damaged": 1
+          },
+            "model": "item/cart/snowwhite"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.07559256886,
+            "damaged": 1
+          },
+            "model": "item/door/castledoor"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.07623318385,
+            "damaged": 1
+          },
+            "model": "item/cart/carouselhorse"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0768737988,
+            "damaged": 1
+          },
+            "model": "item/potc_lafitte"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0775144138,
+            "damaged": 1
+          },
+            "model": "item/potc_torch"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.07815502882,
+            "damaged": 1
+          },
+            "model": "item/indy_bullwhip"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.07879564381,
+            "damaged": 1
+          },
+            "model": "item/populationsign"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.07879564381,
+            "damaged": 1
+          },
+            "model": "item/populationsign"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0794362588,
+            "damaged": 1
+          },
+            "model": "item/indyghost"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.08007687379,
+            "damaged": 1
+          },
+            "model": "item/indy_snake"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.08071748878,
+            "damaged": 1
+          },
+            "model": "item/candle_holder_model"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.08135810377,
+            "damaged": 1
+          },
+            "model": "item/hm_ceiling"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.08199871877,
+            "damaged": 1
+          },
+            "model": "item/samantha"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.08263933376,
+            "damaged": 1
+          },
+            "model": "item/hm_organ"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.08327994875,
+            "damaged": 1
+          },
+            "model": "item/hm_grandfatherclock"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0839205637,
+            "damaged": 1
+          },
+            "model": "item/hm_stretchingroom01"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0845611787,
+            "damaged": 1
+          },
+            "model": "item/hm_stretchingroom02"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0852017937,
+            "damaged": 1
+          },
+            "model": "item/hm_stretchingroombase"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0858424087,
+            "damaged": 1
+          },
+            "model": "item/hm_cart"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0864830237,
+            "damaged": 1
+          },
+            "model": "item/hm_gargoylecandle"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0871236387,
+            "damaged": 1
+          },
+            "model": "item/hm_floating_candelabra"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.08776425368,
+            "damaged": 1
+          },
+            "model": "item/hatboxghost"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.08840486867,
+            "damaged": 1
+          },
+            "model": "item/indy_sign"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0890454837,
+            "damaged": 1
+          },
+            "model": "item/hm_hatbox_head_model"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0896860987,
+            "damaged": 1
+          },
+            "model": "item/hm_lamppost"
+
+
+
+
+    },    {
+          "predicate": {
+            "damage": 0.0903267136,
+            "damaged": 1
+          },
+            "model": "item/hm_carriage"
+
+
+
+
+    },
+    {
+          "predicate": {
+            "damage": 0.09096732863,
+            "damaged": 1
+          },
+            "model": "item/pager"
+    },
+    {
+          "predicate": {
+            "damage": 0.09160794362,
+            "damaged": 1
+          },
+            "model": "item/x_wing"
+    },
+    {
+          "predicate": {
+            "damage": 0.09224855861,
+            "damaged": 1
+          },
+            "model": "item/x_wing_tiny"
+    },
+    {
+          "predicate": {
+            "damage": 0.0928891736,
+            "damaged": 1
+          },
+            "model": "item/tie_fighter"
+    },
+    {
+          "predicate": {
+            "damage": 0.09352978859,
+            "damaged": 1
+          },
+            "model": "item/tie_fighter_tiny"
+    },
+    {
+          "predicate": {
+            "damage": 0.09417040358,
+            "damaged": 1
+          },
+            "model": "item/hm_organskulls"
+    },
+    {
+          "predicate": {
+            "damage": 0.0948110186,
+            "damaged": 1
+          },
+            "model": "item/hm_arch"
+    },
+    {
+          "predicate": {
+            "damage": 0.0954516336,
+            "damaged": 1
+          },
+            "model": "item/hm_plaque"
+    },
+    {
+          "predicate": {
+            "damage": 0.0960922486,
+            "damaged": 1
+          },
+            "model": "item/hm_corridorofdoors"
+    },
+    {
+          "predicate": {
+            "damage": 0.0967328635,
+            "damaged": 1
+          },
+            "model": "item/bench_model"
+    },
+    {
+          "predicate": {
+            "damage": 0.09737347853,
+            "damaged": 1
+          },
+            "model": "item/cheshire_cat_ride"
+    },
+    {
+          "predicate": {
+            "damage": 0.09801409352,
+            "damaged": 1
+          },
+            "model": "item/iggywand"
+    },
+    {
+          "predicate": {
+            "damage": 0.09865470852,
+            "damaged": 1
+          },
+            "model": "item/wait_board"
+    }	]
 }
