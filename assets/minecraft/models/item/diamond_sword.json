@@ -1482,5 +1482,33 @@
             "damaged": 1
           },
             "model": "item/wait_board"
+    },
+    {
+          "predicate": {
+            "damage": 0.09929532351,
+            "damaged": 1
+          },
+            "model": "item/alice/cheshire_1"
+    },
+    {
+          "predicate": {
+            "damage": 0.0999359385,
+            "damaged": 1
+          },
+            "model": "item/alice/cheshire_2"
+    },
+    {
+          "predicate": {
+            "damage": 0.10057655349,
+            "damaged": 1
+          },
+            "model": "item/alice/cheshire_3"
+    },
+    {
+          "predicate": {
+            "damage": 0.10121716848,
+            "damaged": 1
+          },
+            "model": "item/cart/smugglers_run"
     }	]
 }
