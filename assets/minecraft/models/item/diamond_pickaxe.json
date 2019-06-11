@@ -549,14 +549,14 @@
             "damage": 0.04996796922,
             "damaged": 1
           },
-            "model": "item/cart/matterhorn_bobsled_blue"
+            "model": "item/cart/matterhornbobsled_blue"
     },
     {
           "predicate": {
             "damage": 0.05060858421,
             "damaged": 1
           },
-            "model": "item/cart/matterhorn_bobsled_cyan"
+            "model": "item/cart/matterhornbobsled_red"
     },
     {
           "predicate": {

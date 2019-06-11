@@ -279,7 +279,7 @@
     },
     {
           "predicate": {
-            "damage": 0.156,
+            "damage": 0.160,
             "damaged": 1
           },
             "model": "item/brickhead/kirishima"

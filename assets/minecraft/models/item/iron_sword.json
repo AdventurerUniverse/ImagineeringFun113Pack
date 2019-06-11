@@ -437,6 +437,13 @@
         "damaged": 1
       },
       "model": "item/droid/r5_full_u8"
+    },
+    {
+          "predicate": {
+            "damage": 0.252,
+            "damaged": 1
+          },
+            "model": "item/droid/battle"
     }
   ]
 }

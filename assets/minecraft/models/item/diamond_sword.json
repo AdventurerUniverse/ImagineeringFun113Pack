@@ -30,7 +30,7 @@
             "damage": 0.00256245996,
             "damaged": 1
           },
-            "model": "item/door/alice_door_01"
+            "model": "item/door/alicedoor"
     },
     {
           "predicate": {
@@ -1510,5 +1510,54 @@
             "damaged": 1
           },
             "model": "item/cart/smugglers_run"
-    }	]
-}
+          },
+          {
+                "predicate": {
+                  "damage": 0.10185778347,
+                  "damaged": 1
+                },
+                  "model": "item/matterhorn_sign"
+          },
+          {
+                "predicate": {
+                  "damage": 0.10249839846,
+                  "damaged": 1
+                },
+                  "model": "item/dok_ondar"
+          },
+          {
+                "predicate": {
+                  "damage": 0.10313901345,
+                  "damaged": 1
+                },
+                  "model": "item/cart/matterhornbobsled_aqua"
+          },
+          {
+                "predicate": {
+                  "damage": 0.10377962844,
+                  "damaged": 1
+                },
+                  "model": "item/cart/matterhornbobsled_blue"
+          },
+          {
+                "predicate": {
+                  "damage": 0.10442024343,
+                  "damaged": 1
+                },
+                  "model": "item/cart/matterhornbobsled_red"
+          },
+          {
+                "predicate": {
+                  "damage": 0.10506085842,
+                  "damaged": 1
+                },
+                  "model": "item/lightsaber_1"
+          },
+          {
+                "predicate": {
+                  "damage": 0.10570147341,
+                  "damaged": 1
+                },
+                  "model": "item/holocron"
+          }	]
+      }
