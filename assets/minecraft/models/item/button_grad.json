@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Mouskegamer with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
+		"particle": "block/e_particle",
 		"texture": "custom/gradbutton"
 	},
 	"elements": [ 	 

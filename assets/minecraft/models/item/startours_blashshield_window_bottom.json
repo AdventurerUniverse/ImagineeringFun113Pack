@@ -2,7 +2,7 @@
   "__comment": "Designed_by_LongtheNinja_-_https://cubik.studio",
   "textures": {
     "texture1": "block/quartz_block_side",
-    "particle": "block/nether_bricks"
+    "particle": "block/nether_brickss"
   },
   "elements": [
     {

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Mouskegamer with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "block/green_concrete",
+		"particle": "block/green_concrete_powder",
 		"texture": "block/stone_slab_top",
 		"texture2": "block/black_wool",
 		"texture3": "block/quartz_block_bottom",
@@ -1140,8 +1140,7 @@
 		},
 		"gui": {
 			"rotation":  [ 0, 163, 0 ],
-			"translation":  [ 0, 0, 2 ],
-			"scale":  [ 0.5, 0.5, 0.5 ]
+			"translation":  [ 0, -10, 2 ]
 		},
 		"head": {
 			"rotation":  [ 0, 2, 0 ],
@@ -1149,12 +1148,10 @@
 			"scale":  [ 1.2, 1.2, 1.2 ]
 		},
 		"ground": {
-			"translation":  [ 0, 6, 0 ],
-			"scale":  [ 0.4, 0.4, 0.4 ]
+			"translation":  [ 0, -6.26, 0 ]
 		},
 		"fixed": {
-			"translation":  [ 0, 0, -2.782 ],
-			"scale":  [ 0.7, 0.7, 0.7 ]
+			"translation":  [ 0, -10, -2.782 ]
 		}
 	}
 }

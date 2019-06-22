@@ -550,7 +550,7 @@
             "damage": 0.0403587444,
             "damaged": 1
           },
-            "model": "item/fireworks/tfshow_cocoskull"
+            "model": "item/firework_rocket/tfshow_cocoskull"
 
 
 
@@ -562,7 +562,7 @@
             "damage": 0.04099935938,
             "damaged": 1
           },
-            "model": "item/fireworks/tfshow_rocket"
+            "model": "item/firework_rocket/tfshow_rocket"
 
 
 
@@ -574,7 +574,7 @@
             "damage": 0.0416399744,
             "damaged": 1
           },
-            "model": "item/fireworks/tfshow_monstersinc"
+            "model": "item/firework_rocket/tfshow_monstersinc"
 
 
 
@@ -1559,5 +1559,12 @@
                   "damaged": 1
                 },
                   "model": "item/holocron"
-          }	]
-      }
+          },
+          {
+                "predicate": {
+                  "damage": 0.1063420884,
+                  "damaged": 1
+                },
+                  "model": "item/alice/hammer_bird"
+    }	]
+}

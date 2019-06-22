@@ -444,6 +444,370 @@
             "damaged": 1
           },
             "model": "item/droid/battle"
+    },
+    {
+          "predicate": {
+            "damage": 0.256,
+            "damaged": 1
+          },
+            "model": "item/droid/r5_full_depotred"
+    },
+    {
+          "predicate": {
+            "damage": 0.260,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_full_depot"
+    },
+    {
+          "predicate": {
+            "damage": 0.264,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_full_red"
+    },
+    {
+          "predicate": {
+            "damage": 0.268,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_full_orange"
+    },
+    {
+          "predicate": {
+            "damage": 0.272,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_full_yellow"
+    },
+    {
+          "predicate": {
+            "damage": 0.276,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_full_green"
+    },
+    {
+          "predicate": {
+            "damage": 0.280,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_full_blue"
+    },
+    {
+          "predicate": {
+            "damage": 0.284,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_full_purple"
+    },
+    {
+          "predicate": {
+            "damage": 0.288,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_full_black"
+    },
+    {
+          "predicate": {
+            "damage": 0.292,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_full_pink"
+    },
+    {
+          "predicate": {
+            "damage": 0.296,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_head_pink"
+    },
+    {
+          "predicate": {
+            "damage": 0.300,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_head_black"
+    },
+    {
+          "predicate": {
+            "damage": 0.304,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_head_red"
+    },
+    {
+          "predicate": {
+            "damage": 0.308,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_head_orange"
+    },
+    {
+          "predicate": {
+            "damage": 0.312,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_head_yellow"
+    },
+    {
+          "predicate": {
+            "damage": 0.316,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_head_green"
+    },
+    {
+          "predicate": {
+            "damage": 0.320,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_head_blue"
+    },
+    {
+          "predicate": {
+            "damage": 0.324,
+            "damaged": 1
+          },
+            "model": "item/droid/r4_head_purple"
+    },
+    {
+          "predicate": {
+            "damage": 0.328,
+            "damaged": 1
+          },
+            "model": "item/droid/dj_r3x_full"
+    },
+    {
+          "predicate": {
+            "damage": 0.332,
+            "damaged": 1
+          },
+            "model": "item/droid/dj_r3x_bottom"
+    },
+    {
+          "predicate": {
+            "damage": 0.336,
+            "damaged": 1
+          },
+            "model": "item/droid/dj_r3x_middle"
+    },
+    {
+          "predicate": {
+            "damage": 0.340,
+            "damaged": 1
+          },
+            "model": "item/droid/dj_r3x_head"
+    },
+    {
+          "predicate": {
+            "damage": 0.344,
+            "damaged": 1
+          },
+            "model": "item/droid/r5_body_a2"
+    },
+    {
+          "predicate": {
+            "damage": 0.348,
+            "damaged": 1
+          },
+            "model": "item/droid/mouse_food"
+    },
+    {
+          "predicate": {
+            "damage": 0.352,
+            "damaged": 1
+          },
+            "model": "item/sabers/elemental_hilt"
+    },
+    {
+          "predicate": {
+            "damage": 0.356,
+            "damaged": 1
+          },
+            "model": "item/sabers/elemental_blue"
+    },
+    {
+          "predicate": {
+            "damage": 0.360,
+            "damaged": 1
+          },
+            "model": "item/sabers/elemental_green"
+    },
+    {
+          "predicate": {
+            "damage": 0.364,
+            "damaged": 1
+          },
+            "model": "item/sabers/elemental_purple"
+    },
+    {
+          "predicate": {
+            "damage": 0.368,
+            "damaged": 1
+          },
+            "model": "item/sabers/elemental_red"
+    },
+    {
+          "predicate": {
+            "damage": 0.372,
+            "damaged": 1
+          },
+            "model": "item/sabers/elemental_white"
+    },
+    {
+          "predicate": {
+            "damage": 0.376,
+            "damaged": 1
+          },
+            "model": "item/sabers/elemental_yellow"
+    },
+    {
+          "predicate": {
+            "damage": 0.380,
+            "damaged": 1
+          },
+            "model": "item/sabers/peacejustice_hilt"
+    },
+    {
+          "predicate": {
+            "damage": 0.384,
+            "damaged": 1
+          },
+            "model": "item/sabers/peacejustice_blue"
+    },
+    {
+          "predicate": {
+            "damage": 0.388,
+            "damaged": 1
+          },
+            "model": "item/sabers/peacejustice_green"
+    },
+    {
+          "predicate": {
+            "damage": 0.392,
+            "damaged": 1
+          },
+            "model": "item/sabers/peacejustice_purple"
+    },
+    {
+          "predicate": {
+            "damage": 0.396,
+            "damaged": 1
+          },
+            "model": "item/sabers/peacejustice_red"
+    },
+    {
+          "predicate": {
+            "damage": 0.4,
+            "damaged": 1
+          },
+            "model": "item/sabers/peacejustice_white"
+    },
+    {
+          "predicate": {
+            "damage": 0.404,
+            "damaged": 1
+          },
+            "model": "item/sabers/peacejustice_yellow"
+    },
+    {
+          "predicate": {
+            "damage": 0.408,
+            "damaged": 1
+          },
+            "model": "item/sabers/powercontrol_hilt"
+    },
+    {
+          "predicate": {
+            "damage": 0.412,
+            "damaged": 1
+          },
+            "model": "item/sabers/powercontrol_blue"
+    },
+    {
+          "predicate": {
+            "damage": 0.416,
+            "damaged": 1
+          },
+            "model": "item/sabers/powercontrol_green"
+    },
+    {
+          "predicate": {
+            "damage": 0.42,
+            "damaged": 1
+          },
+            "model": "item/sabers/powercontrol_purple"
+    },
+    {
+          "predicate": {
+            "damage": 0.424,
+            "damaged": 1
+          },
+            "model": "item/sabers/powercontrol_red"
+    },
+    {
+          "predicate": {
+            "damage": 0.428,
+            "damaged": 1
+          },
+            "model": "item/sabers/powercontrol_white"
+    },
+    {
+          "predicate": {
+            "damage": 0.432,
+            "damaged": 1
+          },
+            "model": "item/sabers/powercontrol_yellow"
+    },
+    {
+          "predicate": {
+            "damage": 0.436,
+            "damaged": 1
+          },
+            "model": "item/sabers/protdef_hilt"
+    },
+    {
+          "predicate": {
+            "damage": 0.44,
+            "damaged": 1
+          },
+            "model": "item/sabers/protdef_blue"
+    },
+    {
+          "predicate": {
+            "damage": 0.444,
+            "damaged": 1
+          },
+            "model": "item/sabers/protdef_green"
+    },
+    {
+          "predicate": {
+            "damage": 0.448,
+            "damaged": 1
+          },
+            "model": "item/sabers/protdef_purple"
+    },
+    {
+          "predicate": {
+            "damage": 0.452,
+            "damaged": 1
+          },
+            "model": "item/sabers/protdef_red"
+    },
+    {
+          "predicate": {
+            "damage": 0.456,
+            "damaged": 1
+          },
+            "model": "item/sabers/protdef_white"
+    },
+    {
+          "predicate": {
+            "damage": 0.46,
+            "damaged": 1
+          },
+            "model": "item/sabers/protdef_yellow"
     }
-  ]
+    ]
 }

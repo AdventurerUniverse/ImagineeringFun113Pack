@@ -2518,8 +2518,43 @@
           "predicate": {
             "damage": 0.21396540679,
             "damaged": 1
-          },
+         },
             "model": "item/button_submarine"
+    },
+    {
+          "predicate": {
+            "damage": 0.21460602178,
+            "damaged": 1
+         },
+            "model": "item/hat/poe_pilot_helmet"
+    },
+    {
+          "predicate": {
+            "damage": 0.21524663677,
+            "damaged": 1
+          },
+            "model": "item/droid/r5_head_wearable"
+    },
+    {
+          "predicate": {
+            "damage": 0.21588725176,
+            "damaged": 1
+          },
+            "model": "item/hat/droidcap"
+    },
+    {
+          "predicate": {
+            "damage": 0.21652786675,
+            "damaged": 1
+                },
+            "model": "item/hat/first_order_cap"
+    },
+    {
+          "predicate": {
+            "damage": 0.21716848174,
+            "damaged": 1
+                },
+                  "model": "item/button_first_order"
     }	]
 
 

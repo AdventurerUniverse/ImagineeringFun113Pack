@@ -7,7 +7,7 @@
 		"texture5": "block/white_wool",
 		"texture6": "block/red_wool",
 		"particle": "block/red_wool",
-		"texture7": "blocks/lapis_block"
+		"texture7": "block/lapis_block"
 	},
 	"elements": [
 		{
