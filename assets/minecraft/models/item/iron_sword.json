@@ -808,6 +808,20 @@
             "damaged": 1
           },
             "model": "item/sabers/protdef_yellow"
+    },
+    {
+          "predicate": {
+            "damage": 0.464,
+            "damaged": 1
+          },
+            "model": "item/droid/r5_head_hondo"
+    },
+    {
+          "predicate": {
+            "damage": 0.468,
+            "damaged": 1
+          },
+            "model": "item/droid/r5_body_hondo"
     }
     ]
 }
