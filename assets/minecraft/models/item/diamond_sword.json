@@ -1566,5 +1566,12 @@
                   "damaged": 1
                 },
                   "model": "item/alice/hammer_bird"
+          },
+          {
+                "predicate": {
+                  "damage": 0.10698270339,
+                  "damaged": 1
+                },
+                  "model": "item/falcon_full"
     }	]
 }
