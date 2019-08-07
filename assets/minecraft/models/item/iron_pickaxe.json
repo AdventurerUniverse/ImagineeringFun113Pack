@@ -283,6 +283,13 @@
             "damaged": 1
           },
             "model": "item/brickhead/kirishima"
+    },
+    {
+          "predicate": {
+            "damage": 0.164,
+            "damaged": 1
+          },
+            "model": "item/brickhead/steve"
     }
     ]
 }
