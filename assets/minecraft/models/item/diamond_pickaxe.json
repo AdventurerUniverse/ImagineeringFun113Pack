@@ -2555,6 +2555,69 @@
             "damaged": 1
                 },
                   "model": "item/button_first_order"
+    },
+    {
+          "predicate": {
+            "damage": 0.21780909673,
+            "damaged": 1
+          },
+            "model": "item/button_grapesoda"
+    },
+    {
+          "predicate": {
+            "damage": 0.21844971172,
+            "damaged": 1
+          },
+            "model": "item/hat/upband"
+    },
+    {
+          "predicate": {
+            "damage": 0.21909032671,
+            "damaged": 1
+          },
+            "model": "item/hat/whitegoldband"
+    },
+    {
+          "predicate": {
+            "damage": 0.2197309417,
+            "damaged": 1
+          },
+            "model": "item/hat/blackblueband"
+    },
+    {
+          "predicate": {
+            "damage": 0.22037155669,
+            "damaged": 1
+          },
+            "model": "item/hat/snowwhiteband"
+    },
+    {
+          "predicate": {
+            "damage": 0.22101217168,
+            "damaged": 1
+          },
+            "model": "item/button_robbin"
+    },
+    {
+          "predicate": {
+            "damage": 0.22165278667,
+            "damaged": 1
+          },
+            "model": "item/hat/dustin_85"
+    },
+    {
+          "predicate": {
+            "damage": 0.22229340166,
+            "damaged": 1
+          },
+            "model": "item/hat/ahoy_hat"
+    },
+    {
+          "predicate": {
+            "damage": 0.22293401665,
+            "damaged": 1
+          },
+            "model": "item/hat/ahoy_ears"
     }	]
 
 
