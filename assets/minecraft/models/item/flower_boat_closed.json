@@ -12,10 +12,10 @@
     "Pruple": "custom/purple_wool",
     "Yellow": "custom/yellow_wool",
     "Orange": "custom/orange_wool",
-    "Flower1": "custom/flower_blue_orchid",
-    "Flower2": "custom/flower_dandelion",
-    "Flower3": "custom/flower_rose",
-    "Flower4": "custom/flower_oxeye_daisy"
+    "Flower1": "custom/blue_orchid",
+    "Flower2": "custom/dandelion",
+    "Flower3": "custom/poppy",
+    "Flower4": "custom/oxeye_daisy"
   },
   "elements": [
     {
