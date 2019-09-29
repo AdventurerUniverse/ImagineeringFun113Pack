@@ -2618,7 +2618,173 @@
             "damaged": 1
           },
             "model": "item/hat/ahoy_ears"
+    },
+    {
+          "predicate": {
+            "damage": 0.22357463164,
+            "damaged": 1
+          },
+            "model": "item/poster/1ride_blackwidow"
+    },
+    {
+          "predicate": {
+            "damage": 0.22421524663,
+            "damaged": 1
+          },
+            "model": "item/poster/1ride_clonewars"
+    },
+    {
+          "predicate": {
+            "damage": 0.22485586162,
+            "damaged": 1
+          },
+            "model": "item/poster/1ride_d23"
+    },
+    {
+          "predicate": {
+            "damage": 0.22549647661,
+            "damaged": 1
+          },
+            "model": "item/poster/1ride_d2310"
+    },
+    {
+          "predicate": {
+            "damage": 0.2261370916,
+            "damaged": 1
+          },
+            "model": "item/poster/frozen"
+    },
+    {
+          "predicate": {
+            "damage": 0.22677770659,
+            "damaged": 1
+          },
+            "model": "item/poster/hsm"
+    },
+    {
+          "predicate": {
+            "damage": 0.22741832158,
+            "damaged": 1
+          },
+            "model": "item/poster/jeffgoldblum"
+    },
+    {
+          "predicate": {
+            "damage": 0.22805893657,
+            "damaged": 1
+          },
+            "model": "item/poster/ladytramp"
+    },
+    {
+          "predicate": {
+            "damage": 0.22869955157,
+            "damaged": 1
+          },
+            "model": "item/poster/mandy"
+    },
+    {
+          "predicate": {
+            "damage": 0.22934016656,
+            "damaged": 1
+          },
+            "model": "item/poster/noelle"
+    },
+    {
+          "predicate": {
+            "damage": 0.22998078155,
+            "damaged": 1
+          },
+            "model": "item/poster/onward"
+    },
+    {
+          "predicate": {
+            "damage": 0.23062139654,
+            "damaged": 1
+          },
+            "model": "item/poster/rotr"
+    },
+    {
+          "predicate": {
+            "damage": 0.23126201153,
+            "damaged": 1
+          },
+            "model": "item/poster/skywalker"
+    },
+    {
+          "predicate": {
+            "damage": 0.23190262652,
+            "damaged": 1
+          },
+            "model": "item/hat/santa_hat"
+    },
+    {
+          "predicate": {
+            "damage": 0.23254324151,
+            "damaged": 1
+          },
+            "model": "item/hat/santa_hat1"
+    },
+    {
+          "predicate": {
+            "damage": 0.2331838565,
+            "damaged": 1
+          },
+            "model": "item/hat/tophat_halloween"
+    },
+    {
+          "predicate": {
+            "damage": 0.23382447149,
+            "damaged": 1
+          },
+            "model": "item/hat/lightblueredheadband"
+    },
+    {
+          "predicate": {
+            "damage": 0.23446508648,
+            "damaged": 1
+          },
+            "model": "item/hat/orangeblackheadband"
+    },
+    {
+          "predicate": {
+            "damage": 0.23510570147,
+            "damaged": 1
+          },
+            "model": "item/hat/blackgreenheadband"
+    },
+    {
+          "predicate": {
+            "damage": 0.23574631646,
+            "damaged": 1
+          },
+            "model": "item/hat/haunted_headband"
+    },
+    {
+          "predicate": {
+            "damage": 0.23638693145,
+            "damaged": 1
+          },
+            "model": "item/magnet_ap_halloween"
+    },
+    {
+          "predicate": {
+            "damage": 0.23702754644,
+            "damaged": 1
+          },
+            "model": "item/button_ap_halloween"
+    },
+    {
+          "predicate": {
+            "damage": 0.23766816143,
+            "damaged": 1
+          },
+            "model": "item/hat/captain_eo_headband"
+    },
+    {
+          "predicate": {
+            "damage": 0.23830877642,
+            "damaged": 1
+          },
+            "model": "item/hat/maleficent_headband"
     }	]
-
-
 }
