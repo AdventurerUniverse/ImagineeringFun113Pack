@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/red_concrete",
 		"1": "block/stone_slab_top",
-		"2": "block/glass_orange",
+		"2": "block/orange_stained_glass",
 		"wool_black": "block/black_concrete"
 	},
 	"elements": [ 	 
