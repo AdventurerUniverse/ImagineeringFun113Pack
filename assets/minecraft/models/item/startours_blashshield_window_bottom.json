@@ -2,7 +2,7 @@
   "__comment": "Designed_by_LongtheNinja_-_https://cubik.studio",
   "textures": {
     "texture1": "block/quartz_block_side",
-    "particle": "block/nether_brickss"
+    "particle": "block/nether_bricks"
   },
   "elements": [
     {
@@ -646,7 +646,7 @@
             15.49,
             1.99
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "up": {
           "uv": [
@@ -655,7 +655,7 @@
             15.49,
             14.99
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "north": {
           "uv": [
@@ -664,7 +664,7 @@
             15.99,
             0.9899998
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "south": {
           "uv": [
@@ -673,7 +673,7 @@
             15.49,
             0.9899998
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "west": {
           "uv": [
@@ -682,7 +682,7 @@
             14.99,
             0.9899998
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "east": {
           "uv": [
@@ -691,7 +691,7 @@
             1.99,
             0.9899998
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         }
       }
     },
@@ -1819,7 +1819,7 @@
             15.49,
             1.99
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "up": {
           "uv": [
@@ -1828,7 +1828,7 @@
             15.49,
             14.99
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "north": {
           "uv": [
@@ -1837,7 +1837,7 @@
             15.99,
             0.9899998
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "south": {
           "uv": [
@@ -1846,7 +1846,7 @@
             15.49,
             0.9899998
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "west": {
           "uv": [
@@ -1855,7 +1855,7 @@
             14.99,
             0.9899998
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "east": {
           "uv": [
@@ -1864,7 +1864,7 @@
             1.99,
             0.9899998
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         }
       }
     },
