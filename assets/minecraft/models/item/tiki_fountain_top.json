@@ -68195,7 +68195,7 @@
             8.5,
             16
           ],
-          "texture": "#texture",
+          "texture": "#sandstone_bottom",
           "cullface": "north"
         },
         "up": {
@@ -68205,7 +68205,7 @@
             8.5,
             0
           ],
-          "texture": "#texture",
+          "texture": "#sandstone_bottom",
           "cullface": "north"
         },
         "north": {
@@ -68215,7 +68215,7 @@
             8.5,
             6.5
           ],
-          "texture": "#texture",
+          "texture": "#sandstone_bottom",
           "cullface": "north"
         },
         "south": {
@@ -68225,7 +68225,7 @@
             8.5,
             6.5
           ],
-          "texture": "#texture",
+          "texture": "#sandstone_bottom",
           "cullface": "north"
         },
         "west": {
@@ -68235,7 +68235,7 @@
             0,
             6.5
           ],
-          "texture": "#texture",
+          "texture": "#sandstone_bottom",
           "cullface": "north"
         },
         "east": {
@@ -68245,7 +68245,7 @@
             16,
             6.5
           ],
-          "texture": "#texture",
+          "texture": "#sandstone_bottom",
           "cullface": "north"
         }
       }
