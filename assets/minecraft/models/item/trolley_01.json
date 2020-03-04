@@ -9,7 +9,7 @@
     "white_concrete": "block/white_concrete",
     "orange_concrete": "block/orange_concrete",
     "stone_slab_top": "block/stone_slab_top",
-    "prismarine_brickss": "block/prismarine_brickss",
+    "prismarine_bricks": "block/prismarine_bricks",
     "white_terracotta": "block/white_terracotta",
     "furnace_side": "block/furnace_side",
     "sea_lantern": "block/sea_lantern",
@@ -5543,7 +5543,7 @@
             8,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "north"
         }
       }
@@ -5608,7 +5608,7 @@
             8,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "south"
         }
       }
@@ -11937,7 +11937,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "north"
         }
       }
@@ -11992,7 +11992,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "north"
         }
       }
@@ -12047,7 +12047,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "north"
         }
       }
@@ -12102,7 +12102,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "north"
         }
       }
@@ -12154,7 +12154,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         }
       }
     },
@@ -12198,7 +12198,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "east"
         },
         "east": {
@@ -12251,7 +12251,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -12302,7 +12302,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -12353,7 +12353,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -12406,7 +12406,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "east"
         },
         "east": {
@@ -12471,7 +12471,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "south"
         }
       }
@@ -12870,7 +12870,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -12921,7 +12921,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -12972,7 +12972,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -13025,7 +13025,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "east"
         },
         "east": {
@@ -13080,7 +13080,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "east"
         },
         "east": {
@@ -13142,7 +13142,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         }
       }
     },
@@ -13196,7 +13196,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "south"
         }
       }
@@ -13251,7 +13251,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "south"
         }
       }
@@ -13306,7 +13306,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "south"
         }
       }
@@ -43610,7 +43610,7 @@
             8,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -43670,7 +43670,7 @@
             8,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -65892,7 +65892,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "south"
         },
         "south": {
@@ -65967,7 +65967,7 @@
             1,
             1
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "south"
         },
         "south": {
@@ -73943,7 +73943,7 @@
             8,
             0
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "up": {
           "uv": [
@@ -73952,7 +73952,7 @@
             8,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "north": {
           "uv": [
@@ -73961,7 +73961,7 @@
             8,
             0
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "south": {
           "uv": [
@@ -73970,7 +73970,7 @@
             8,
             0
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "west": {
           "uv": [
@@ -73979,7 +73979,7 @@
             8,
             0
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -73988,7 +73988,7 @@
             7,
             0
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         }
       }
     },
@@ -74012,7 +74012,7 @@
             8,
             0
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "up": {
           "uv": [
@@ -74021,7 +74021,7 @@
             8,
             1
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "north": {
           "uv": [
@@ -74030,7 +74030,7 @@
             8,
             0
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "south": {
           "uv": [
@@ -74039,7 +74039,7 @@
             8,
             0
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "west": {
           "uv": [
@@ -74048,7 +74048,7 @@
             8,
             0
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -74057,7 +74057,7 @@
             7,
             0
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         }
       }
     },
@@ -74141,7 +74141,7 @@
             1,
             16
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "north": {
@@ -74151,7 +74151,7 @@
             1,
             10
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "south": {
@@ -74161,7 +74161,7 @@
             1,
             16
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "west": {
@@ -74171,7 +74171,7 @@
             1,
             10
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         }
       }
@@ -74196,7 +74196,7 @@
             1,
             16
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "north": {
@@ -74206,7 +74206,7 @@
             1,
             10
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "south": {
@@ -74216,7 +74216,7 @@
             1,
             16
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "west": {
@@ -74226,7 +74226,7 @@
             1,
             10
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         }
       }
@@ -74251,7 +74251,7 @@
             1,
             16
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "north": {
@@ -74261,7 +74261,7 @@
             1,
             10
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "south": {
@@ -74271,7 +74271,7 @@
             1,
             16
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "east": {
@@ -74281,7 +74281,7 @@
             1,
             10
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         }
       }
@@ -74306,7 +74306,7 @@
             1,
             16
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "north": {
@@ -74316,7 +74316,7 @@
             1,
             10
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "south": {
@@ -74326,7 +74326,7 @@
             1,
             16
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         },
         "east": {
@@ -74336,7 +74336,7 @@
             1,
             10
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         }
       }
@@ -74381,7 +74381,7 @@
             16,
             15
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         }
       }
@@ -74516,7 +74516,7 @@
             16,
             15
           ],
-          "texture": "#prismarine_brickss",
+          "texture": "#prismarine_bricks",
           "cullface": "down"
         }
       }
@@ -74684,7 +74684,7 @@
             16,
             15
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
@@ -74817,7 +74817,7 @@
             16,
             15
           ],
-          "texture": "#prismarine_brickss"
+          "texture": "#prismarine_bricks"
         },
         "east": {
           "uv": [
