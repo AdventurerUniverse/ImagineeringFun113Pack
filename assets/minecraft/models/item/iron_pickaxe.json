@@ -9,7 +9,7 @@
             "damage": 0.004,
             "damaged": 1
       },
-      "model": "item/pokemon/001"
+      "model": "item/iron_pickaxe"
     },
     {
           "predicate": {
@@ -30,7 +30,7 @@
             "damage": 0.016,
             "damaged": 1
           },
-            "model": "item/tiki_fountain"
+            "model": "item/tiki_fountain_top"
     },
     {
           "predicate": {
