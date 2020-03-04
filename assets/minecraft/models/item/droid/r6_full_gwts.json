@@ -8,9 +8,10 @@
 		"texture1": "block/blue_wool",
 		"texture4": "block/red_wool",
 		"texture5": "custom/glow_test",
-		"texture6": "custom/gwts"
+		"texture6": "custom/gwts",
+		"wool_black": "block/black_wool"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "wool_black",
 			"from": [ 7, 20.5, 5.5 ],
