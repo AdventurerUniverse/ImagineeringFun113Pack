@@ -668,7 +668,7 @@
             "damage": 0.06085842405,
             "damaged": 1
           },
-            "model": "item/chair/table_mainstreet"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
@@ -920,7 +920,7 @@
             "damage": 0.08392056369,
             "damaged": 1
           },
-            "model": "item/choplins_music_box"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
@@ -941,7 +941,7 @@
             "damage": 0.08584240866,
             "damaged": 1
           },
-            "model": "item/selfie_stick"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
@@ -983,7 +983,7 @@
             "damage": 0.0896860986,
             "damaged": 1
           },
-            "model": "item/hat/king_arthurs_crown"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
@@ -1004,21 +1004,21 @@
             "damage": 0.09160794357,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_01"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09224855856,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_02"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09288917355,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_03"
+            "model": "item/diamond_pickaxe"
 
 
 
@@ -1057,140 +1057,140 @@
             "damage": 0.09352978854,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_04"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09417040353,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_05"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09481101852,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_06"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09545163351,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_07"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.0960922485,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_08"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09673286349,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_09"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09737347848,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_10"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09801409347,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_11"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09865470846,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_12"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09929532345,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_13"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.09993593844,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_14"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.10057655343,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_15"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.10121716842,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_16"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.10185778341,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_17"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.1024983984,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_18"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.10313901339,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_19"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.10377962838,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_20"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.10442024337,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_21"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.10506085836,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_22"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
             "damage": 0.10570147335,
             "damaged": 1
           },
-            "model": "item/hat/chaser_cap/chaser_cap_23"
+            "model": "item/diamond_pickaxe"
     },
     {
           "predicate": {
@@ -1211,19 +1211,19 @@
             "damage": 0.107623318,
             "damaged": 1
           },
-            "model": "item/hat/jackears"
+            "model": "item/diamond_pickaxe"
     },    {
           "predicate": {
             "damage": 0.108263933,
             "damaged": 1
           },
-            "model": "item/hat/santamickey"
+            "model": "item/diamond_pickaxe"
     },    {
           "predicate": {
             "damage": 0.108904548,
             "damaged": 1
           },
-            "model": "item/hat/wdwears"
+            "model": "item/diamond_pickaxe"
     },    {
           "predicate": {
             "damage": 0.10954516335,
@@ -1235,31 +1235,31 @@
             "damage": 0.110185778,
             "damaged": 1
           },
-            "model": "item/hat/indiana_jones_hat"
+            "model": "item/diamond_pickaxe"
     },    {
           "predicate": {
             "damage": 0.110826393337604,
             "damaged": 1
           },
-            "model": "item/hat/goofy_hat_"
+            "model": "item/hat/goofy_hat"
     },    {
           "predicate": {
             "damage": 0.111467008327995,
             "damaged": 1
           },
-            "model": "item/hat/pluto_hat"
+            "model": "item/diamond_pickaxe"
     },    {
           "predicate": {
             "damage": 0.112107623318386,
             "damaged": 1
           },
-            "model": "item/hat/bb8_mickey_ears_hat"
+            "model": "item/diamond_pickaxe"
     },    {
           "predicate": {
             "damage": 0.112748238308776,
             "damaged": 1
           },
-            "model": "item/hat/hth_bellman_hat"
+            "model": "item/diamond_pickaxe"
     },    {
           "predicate": {
             "damage": 0.113388853299167,
@@ -2652,63 +2652,63 @@
             "damage": 0.2261370916,
             "damaged": 1
           },
-            "model": "item/poster/frozen"
+            "model": "item/poster/1ride_frozen"
     },
     {
           "predicate": {
             "damage": 0.22677770659,
             "damaged": 1
           },
-            "model": "item/poster/hsm"
+            "model": "item/poster/1ride_hsm"
     },
     {
           "predicate": {
             "damage": 0.22741832158,
             "damaged": 1
           },
-            "model": "item/poster/jeffgoldblum"
+            "model": "item/poster/1ride_jeffgoldblum"
     },
     {
           "predicate": {
             "damage": 0.22805893657,
             "damaged": 1
           },
-            "model": "item/poster/ladytramp"
+            "model": "item/poster/1ride_ladytramp"
     },
     {
           "predicate": {
             "damage": 0.22869955157,
             "damaged": 1
           },
-            "model": "item/poster/mandy"
+            "model": "item/poster/1ride_mandy"
     },
     {
           "predicate": {
             "damage": 0.22934016656,
             "damaged": 1
           },
-            "model": "item/poster/noelle"
+            "model": "item/poster/1ride_noelle"
     },
     {
           "predicate": {
             "damage": 0.22998078155,
             "damaged": 1
           },
-            "model": "item/poster/onward"
+            "model": "item/poster/1ride_onward"
     },
     {
           "predicate": {
             "damage": 0.23062139654,
             "damaged": 1
           },
-            "model": "item/poster/rotr"
+            "model": "item/poster/1ride_rotr"
     },
     {
           "predicate": {
             "damage": 0.23126201153,
             "damaged": 1
           },
-            "model": "item/poster/skywalker"
+            "model": "item/poster/1ride_skywalker"
     },
     {
           "predicate": {
