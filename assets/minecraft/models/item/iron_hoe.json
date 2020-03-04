@@ -1,0 +1,400 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_hoe"
+    },
+    "overrides": [
+    {
+        "predicate": {
+            "damage": 0.004,
+            "damaged": 1
+      },
+      "model": "item/button_btmbadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.008,
+            "damaged": 1
+          },
+            "model": "item/button_astrobadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.012,
+            "damaged": 1
+          },
+            "model": "item/button_hmbadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.016,
+            "damaged": 1
+          },
+            "model": "item/button_indybadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.02,
+            "damaged": 1
+          },
+            "model": "item/button_yetibadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.024,
+            "damaged": 1
+          },
+            "model": "item/button_spacebadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.028,
+            "damaged": 1
+          },
+            "model": "item/button_peterbadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.032,
+            "damaged": 1
+          },
+            "model": "item/button_splashbadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.036,
+            "damaged": 1
+          },
+            "model": "item/button_falconbadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.040,
+            "damaged": 1
+          },
+            "model": "item/button_rotrbadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.044,
+            "damaged": 1
+          },
+            "model": "item/button_alicebadge"
+    },
+    {
+          "predicate": {
+            "damage": 0.048,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_left"
+    },
+    {
+          "predicate": {
+            "damage": 0.052,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_right"
+    },
+    {
+          "predicate": {
+            "damage": 0.056,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_rebel"
+    },
+    {
+          "predicate": {
+            "damage": 0.060,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_fo"
+    },
+    {
+          "predicate": {
+            "damage": 0.064,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_smuggler"
+    },
+    {
+          "predicate": {
+            "damage": 0.068,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_translate"
+    },
+    {
+          "predicate": {
+            "damage": 0.072,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_hack"
+    },
+    {
+          "predicate": {
+            "damage": 0.076,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_scan"
+    },
+    {
+          "predicate": {
+            "damage": 0.080,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_barcode"
+    },
+    {
+          "predicate": {
+            "damage": 0.084,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_plus"
+    },
+    {
+          "predicate": {
+            "damage": 0.088,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_equal"
+    },
+    {
+          "predicate": {
+            "damage": 0.092,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_audio"
+    },
+    {
+          "predicate": {
+            "damage": 0.096,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_ping1"
+    },
+    {
+          "predicate": {
+            "damage": 0.100,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_ping2"
+    },
+    {
+          "predicate": {
+            "damage": 0.104,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_x"
+    },
+    {
+          "predicate": {
+            "damage": 0.108,
+            "damaged": 1
+          },
+            "model": "item/ge/icon_back"
+    },
+    {
+          "predicate": {
+            "damage": 0.112,
+            "damaged": 1
+          },
+            "model": "item/brickhead/eboy"
+    },
+    {
+          "predicate": {
+            "damage": 0.116,
+            "damaged": 1
+          },
+            "model": "item/brickhead/todoroki"
+    },
+    {
+          "predicate": {
+            "damage": 0.120,
+            "damaged": 1
+          },
+            "model": "item/brickhead/nemo"
+    },
+    {
+          "predicate": {
+            "damage": 0.124,
+            "damaged": 1
+          },
+            "model": "item/brickhead/dory"
+    },
+    {
+          "predicate": {
+            "damage": 0.128,
+            "damaged": 1
+          },
+            "model": "item/brickhead/kastle"
+    },
+    {
+          "predicate": {
+            "damage": 0.132,
+            "damaged": 1
+          },
+            "model": "item/brickhead/froppy"
+    },
+    {
+          "predicate": {
+            "damage": 0.136,
+            "damaged": 1
+          },
+            "model": "item/brickhead/oswald"
+    },
+    {
+          "predicate": {
+            "damage": 0.140,
+            "damaged": 1
+          },
+            "model": "item/brickhead/judy"
+    },
+    {
+          "predicate": {
+            "damage": 0.144,
+            "damaged": 1
+          },
+            "model": "item/brickhead/piglet"
+    },
+    {
+          "predicate": {
+            "damage": 0.148,
+            "damaged": 1
+          },
+            "model": "item/brickhead/roger"
+    },
+    {
+          "predicate": {
+            "damage": 0.152,
+            "damaged": 1
+          },
+            "model": "item/brickhead/brer"
+    },
+    {
+          "predicate": {
+            "damage": 0.156,
+            "damaged": 1
+          },
+            "model": "item/brickhead/cap"
+    },
+    {
+          "predicate": {
+            "damage": 0.160,
+            "damaged": 1
+          },
+            "model": "item/brickhead/kirishima"
+    },
+    {
+          "predicate": {
+            "damage": 0.164,
+            "damaged": 1
+          },
+            "model": "item/brickhead/steve"
+    },
+    {
+          "predicate": {
+            "damage": 0.168,
+            "damaged": 1
+          },
+            "model": "item/death_star"
+    },
+    {
+          "predicate": {
+            "damage": 0.172,
+            "damaged": 1
+          },
+            "model": "item/brickhead/james"
+    },
+    {
+          "predicate": {
+            "damage": 0.176,
+            "damaged": 1
+          },
+            "model": "item/brickhead/babyyoda"
+    },
+    {
+          "predicate": {
+            "damage": 0.180,
+            "damaged": 1
+          },
+            "model": "item/brickhead/uraraka"
+    },
+    {
+          "predicate": {
+            "damage": 0.184,
+            "damaged": 1
+          },
+            "model": "item/iron_hoe"
+    },
+    {
+          "predicate": {
+            "damage": 0.188,
+            "damaged": 1
+          },
+            "model": "item/buzz_circle"
+    },
+    {
+          "predicate": {
+            "damage": 0.192,
+            "damaged": 1
+          },
+            "model": "item/buzz_square"
+    },
+    {
+          "predicate": {
+            "damage": 0.196,
+            "damaged": 1
+          },
+            "model": "item/buzz_diamond"
+    },
+    {
+          "predicate": {
+            "damage": 0.200,
+            "damaged": 1
+          },
+            "model": "item/buzz_triangle"
+    },
+    {
+          "predicate": {
+            "damage": 0.204,
+            "damaged": 1
+          },
+            "model": "item/brickhead/koala"
+    },
+    {
+          "predicate": {
+            "damage": 0.208,
+            "damaged": 1
+          },
+            "model": "item/brickhead/matt"
+    },
+    {
+          "predicate": {
+            "damage": 0.212,
+            "damaged": 1
+          },
+            "model": "item/brickhead/anakin"
+    },
+    {
+          "predicate": {
+            "damage": 0.212,
+            "damaged": 1
+          },
+            "model": "item/brickhead/anakin"
+    },
+    {
+          "predicate": {
+            "damage": 0.212,
+            "damaged": 1
+          },
+            "model": "item/brickhead/anakin"
+    },
+    {
+          "predicate": {
+            "damage": 0.212,
+            "damaged": 1
+          },
+            "model": "item/brickhead/anakin"
+    }
+    ]
+}
