@@ -1168,7 +1168,7 @@
             5.5,
             15
           ],
-          "texture": "#texture"
+          "texture": "#blue_concrete_powder"
         },
         "south": {
           "uv": [
@@ -1237,7 +1237,7 @@
             5.5,
             15
           ],
-          "texture": "#texture"
+          "texture": "#blue_concrete_powder"
         },
         "south": {
           "uv": [
