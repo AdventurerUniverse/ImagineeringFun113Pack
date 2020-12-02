@@ -4,6 +4,7 @@
 .LSOverride
 ResourcePackConverter.jar
 packsquash
+*.zip
 
 # Icon must end with two \r
 Icon
