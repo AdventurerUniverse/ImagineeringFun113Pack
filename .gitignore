@@ -5,6 +5,7 @@
 ResourcePackConverter.jar
 packsquash
 *.zip
+settings.toml
 
 # Icon must end with two \r
 Icon
