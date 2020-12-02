@@ -2,8 +2,8 @@
   "__comment": "Designed_by_Slinx_with_Cubik_Studio_-_https://cubik.studio",
   "textures": {
     "particle": "block/e_particle",
-    "yellow_terracotta": "block/yellow_terracotta",
-    "jungle_planks": "block/jungle_planks"
+    "hardened_clay_stained_yellow": "block/yellow_terracotta",
+    "planks_jungle": "block/jungle_planks"
   },
   "elements": [
     {
@@ -26,7 +26,7 @@
             7.5,
             16
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "up": {
@@ -36,7 +36,7 @@
             8.5,
             15.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "north": {
@@ -46,7 +46,7 @@
             10.5,
             16
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "south": {
@@ -56,7 +56,7 @@
             12.5,
             16
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "west": {
@@ -66,7 +66,7 @@
             0.75,
             0.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "east": {
@@ -76,7 +76,7 @@
             1.5,
             2.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         }
       }
@@ -101,7 +101,7 @@
             11.5,
             15.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -111,7 +111,7 @@
             12.5,
             15.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -121,7 +121,7 @@
             9.5,
             16
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -131,7 +131,7 @@
             9.5,
             16
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -141,7 +141,7 @@
             1.5,
             3.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -151,7 +151,7 @@
             1.25,
             3
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -176,7 +176,7 @@
             12,
             15.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -186,7 +186,7 @@
             12,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -196,7 +196,7 @@
             13.5,
             16
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -206,7 +206,7 @@
             2.25,
             4
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -216,7 +216,7 @@
             2,
             3.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -241,7 +241,7 @@
             13,
             15
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -251,7 +251,7 @@
             13,
             15
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -261,7 +261,7 @@
             13.5,
             16
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -271,7 +271,7 @@
             2.25,
             3.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -281,7 +281,7 @@
             2,
             2.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -306,7 +306,7 @@
             11,
             14.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "up": {
@@ -316,7 +316,7 @@
             0.75,
             0
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "north": {
@@ -326,7 +326,7 @@
             2.25,
             0.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "west": {
@@ -336,7 +336,7 @@
             4.125,
             0.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "east": {
@@ -346,7 +346,7 @@
             4.125,
             0.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         }
       }
@@ -371,7 +371,7 @@
             8,
             14.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "up": {
@@ -381,7 +381,7 @@
             8.75,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "south": {
@@ -391,7 +391,7 @@
             3,
             1.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "west": {
@@ -401,7 +401,7 @@
             4.375,
             0.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         },
         "east": {
@@ -411,7 +411,7 @@
             4.375,
             0.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "down"
         }
       }
@@ -436,7 +436,7 @@
             9.5,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -446,7 +446,7 @@
             9.5,
             14.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -456,7 +456,7 @@
             9.5,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -466,7 +466,7 @@
             5.375,
             3.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -476,7 +476,7 @@
             5.25,
             2.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -501,7 +501,7 @@
             14.5,
             15
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -511,7 +511,7 @@
             11.75,
             14.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -521,7 +521,7 @@
             5.25,
             0.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -531,7 +531,7 @@
             5.375,
             3.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -556,7 +556,7 @@
             13.25,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -566,7 +566,7 @@
             13.25,
             14.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -576,7 +576,7 @@
             9.5,
             15.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -586,7 +586,7 @@
             4,
             0.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -596,7 +596,7 @@
             4.375,
             4
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -621,7 +621,7 @@
             10.25,
             15.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -631,7 +631,7 @@
             9.5,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -641,7 +641,7 @@
             8,
             15.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -651,7 +651,7 @@
             4.625,
             0.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -661,7 +661,7 @@
             4.625,
             0.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -686,7 +686,7 @@
             15.25,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -696,7 +696,7 @@
             11.75,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -706,7 +706,7 @@
             5.625,
             3.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -716,7 +716,7 @@
             5.375,
             3.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -741,7 +741,7 @@
             16,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -751,7 +751,7 @@
             11,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -761,7 +761,7 @@
             5.25,
             1.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -771,7 +771,7 @@
             5,
             1.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -796,7 +796,7 @@
             0.75,
             1.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -806,7 +806,7 @@
             0.75,
             1.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -816,7 +816,7 @@
             2.25,
             4
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -826,7 +826,7 @@
             2.25,
             1.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -836,7 +836,7 @@
             2.25,
             1.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -846,7 +846,7 @@
             2.25,
             3
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -871,7 +871,7 @@
             15.25,
             15.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -881,7 +881,7 @@
             6.5,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -891,7 +891,7 @@
             8.75,
             14.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -901,7 +901,7 @@
             4.5,
             1.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -911,7 +911,7 @@
             4,
             3.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -936,7 +936,7 @@
             3,
             3.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -946,7 +946,7 @@
             2.25,
             0.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -956,7 +956,7 @@
             1.5,
             0.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -966,7 +966,7 @@
             15.25,
             15.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -976,7 +976,7 @@
             4.5,
             3.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -986,7 +986,7 @@
             4,
             3.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1011,7 +1011,7 @@
             13.75,
             15
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1021,7 +1021,7 @@
             13,
             15
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1031,7 +1031,7 @@
             14.5,
             15.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1041,7 +1041,7 @@
             5,
             2.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1051,7 +1051,7 @@
             4.5,
             2.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1076,7 +1076,7 @@
             5,
             2.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1086,7 +1086,7 @@
             3,
             0.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1096,7 +1096,7 @@
             4,
             4
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1106,7 +1106,7 @@
             5,
             0.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1116,7 +1116,7 @@
             5,
             4
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1141,7 +1141,7 @@
             5,
             1.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1151,7 +1151,7 @@
             3.5,
             3.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1161,7 +1161,7 @@
             4,
             3.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1171,7 +1171,7 @@
             4.875,
             0.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1181,7 +1181,7 @@
             5.125,
             4
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1206,7 +1206,7 @@
             3.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1216,7 +1216,7 @@
             3.5,
             2.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1226,7 +1226,7 @@
             4,
             2.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1236,7 +1236,7 @@
             4,
             2.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1246,7 +1246,7 @@
             3.5,
             1.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1271,7 +1271,7 @@
             4.375,
             3.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1281,7 +1281,7 @@
             5,
             3.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1291,7 +1291,7 @@
             5.375,
             3.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1301,7 +1301,7 @@
             5.375,
             3.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1311,7 +1311,7 @@
             5,
             3.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1336,7 +1336,7 @@
             4.5,
             1.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -1346,7 +1346,7 @@
             4,
             0
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1356,7 +1356,7 @@
             4.5,
             0.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1366,7 +1366,7 @@
             3.5,
             0.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1376,7 +1376,7 @@
             5.625,
             2.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1386,7 +1386,7 @@
             5.375,
             3
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1411,7 +1411,7 @@
             5,
             0.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1421,7 +1421,7 @@
             4,
             1.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1431,7 +1431,7 @@
             5.375,
             4
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1441,7 +1441,7 @@
             5.25,
             0.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1466,7 +1466,7 @@
             5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1476,7 +1476,7 @@
             4.5,
             2.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1486,7 +1486,7 @@
             5.5,
             2.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1496,7 +1496,7 @@
             5.5,
             2.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1521,7 +1521,7 @@
             4.5,
             2.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1531,7 +1531,7 @@
             3.5,
             1.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1541,7 +1541,7 @@
             4,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1551,7 +1551,7 @@
             4.25,
             0.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1561,7 +1561,7 @@
             4.25,
             0.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1586,7 +1586,7 @@
             2.25,
             3.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1596,7 +1596,7 @@
             5,
             3.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1606,7 +1606,7 @@
             5.375,
             3.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1616,7 +1616,7 @@
             5.25,
             1.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1641,7 +1641,7 @@
             5.25,
             2.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1651,7 +1651,7 @@
             5.25,
             2.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1661,7 +1661,7 @@
             5.375,
             3
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1671,7 +1671,7 @@
             5.25,
             2.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1696,7 +1696,7 @@
             5.25,
             2.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1706,7 +1706,7 @@
             5,
             2.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1716,7 +1716,7 @@
             5.375,
             2.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1726,7 +1726,7 @@
             5.25,
             2.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1751,7 +1751,7 @@
             5.25,
             1.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1761,7 +1761,7 @@
             5.25,
             1.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1771,7 +1771,7 @@
             5.375,
             2.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1781,7 +1781,7 @@
             5.25,
             2.125
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1806,7 +1806,7 @@
             3,
             4
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1816,7 +1816,7 @@
             3.5,
             2.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1826,7 +1826,7 @@
             3.25,
             2.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1836,7 +1836,7 @@
             3.25,
             4
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1861,7 +1861,7 @@
             5.25,
             0.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1871,7 +1871,7 @@
             1.25,
             3.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1881,7 +1881,7 @@
             4.75,
             0.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1891,7 +1891,7 @@
             5.125,
             0.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1901,7 +1901,7 @@
             5.125,
             0.75
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1926,7 +1926,7 @@
             5.25,
             0.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -1936,7 +1936,7 @@
             5,
             0.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -1946,7 +1946,7 @@
             5.375,
             1.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -1956,7 +1956,7 @@
             5.25,
             2.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -1981,7 +1981,7 @@
             5.375,
             3.625
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -1991,7 +1991,7 @@
             5.625,
             3.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -2001,7 +2001,7 @@
             5.625,
             3.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -2011,7 +2011,7 @@
             5.375,
             3.25
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -2036,7 +2036,7 @@
             5,
             3.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -2046,7 +2046,7 @@
             4.5,
             3.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -2056,7 +2056,7 @@
             5,
             3.5
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -2066,7 +2066,7 @@
             4.75,
             2.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -2076,7 +2076,7 @@
             4.75,
             2.375
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -2101,7 +2101,7 @@
             5.25,
             2
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -2111,7 +2111,7 @@
             5.375,
             1.875
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -2121,7 +2121,7 @@
             5.375,
             4
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -2146,7 +2146,7 @@
             1,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "up": {
@@ -2156,7 +2156,7 @@
             1,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "west": {
@@ -2166,7 +2166,7 @@
             9,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "east": {
@@ -2176,7 +2176,7 @@
             9,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         }
       }
@@ -2201,7 +2201,7 @@
             1,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "north": {
@@ -2211,7 +2211,7 @@
             9,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "west": {
@@ -2221,7 +2221,7 @@
             7.5,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "east": {
@@ -2231,7 +2231,7 @@
             7.5,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         }
       }
@@ -2256,7 +2256,7 @@
             1,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "south": {
@@ -2266,7 +2266,7 @@
             9,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "west": {
@@ -2276,7 +2276,7 @@
             7.5,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "east": {
@@ -2286,7 +2286,7 @@
             7.5,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         }
       }
@@ -2311,7 +2311,7 @@
             1,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up",
           "rotation": 270
         },
@@ -2322,7 +2322,7 @@
             1,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up",
           "rotation": 90
         },
@@ -2333,7 +2333,7 @@
             7.5,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "south": {
@@ -2343,7 +2343,7 @@
             7.5,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "west": {
@@ -2353,7 +2353,7 @@
             9,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         }
       }
@@ -2378,7 +2378,7 @@
             1,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up",
           "rotation": 270
         },
@@ -2389,7 +2389,7 @@
             1,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up",
           "rotation": 90
         },
@@ -2400,7 +2400,7 @@
             7.5,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "south": {
@@ -2410,7 +2410,7 @@
             7.5,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         },
         "east": {
@@ -2420,7 +2420,7 @@
             9,
             16
           ],
-          "texture": "#jungle_planks",
+          "texture": "#planks_jungle",
           "cullface": "up"
         }
       }
@@ -2445,7 +2445,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -2455,7 +2455,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -2465,7 +2465,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -2475,7 +2475,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -2485,7 +2485,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -2495,7 +2495,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -2520,7 +2520,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -2530,7 +2530,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -2540,7 +2540,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -2550,7 +2550,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -2560,7 +2560,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -2570,7 +2570,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -2595,7 +2595,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -2605,7 +2605,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -2615,7 +2615,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -2625,7 +2625,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -2635,7 +2635,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -2645,7 +2645,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -2670,7 +2670,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -2680,7 +2680,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -2690,7 +2690,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -2700,7 +2700,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -2710,7 +2710,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -2720,7 +2720,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -2745,7 +2745,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -2755,7 +2755,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -2765,7 +2765,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -2775,7 +2775,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -2785,7 +2785,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -2795,7 +2795,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -2820,7 +2820,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -2830,7 +2830,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -2840,7 +2840,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -2850,7 +2850,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -2860,7 +2860,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -2870,7 +2870,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -2895,7 +2895,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -2905,7 +2905,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -2915,7 +2915,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -2925,7 +2925,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -2935,7 +2935,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -2945,7 +2945,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -2970,7 +2970,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -2980,7 +2980,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -2990,7 +2990,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -3000,7 +3000,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -3010,7 +3010,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -3020,7 +3020,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -3045,7 +3045,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -3055,7 +3055,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -3065,7 +3065,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -3075,7 +3075,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -3085,7 +3085,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -3095,7 +3095,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -3120,7 +3120,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -3130,7 +3130,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -3140,7 +3140,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -3150,7 +3150,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -3160,7 +3160,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -3170,7 +3170,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -3195,7 +3195,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -3205,7 +3205,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -3215,7 +3215,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -3225,7 +3225,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -3235,7 +3235,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -3245,7 +3245,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -3270,7 +3270,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -3280,7 +3280,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -3290,7 +3290,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -3300,7 +3300,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -3310,7 +3310,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -3320,7 +3320,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -3345,7 +3345,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "up": {
@@ -3355,7 +3355,7 @@
             11,
             9
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "north": {
@@ -3365,7 +3365,7 @@
             12,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "south": {
@@ -3375,7 +3375,7 @@
             13.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "west": {
@@ -3385,7 +3385,7 @@
             11,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         },
         "east": {
@@ -3395,7 +3395,7 @@
             11.5,
             1
           ],
-          "texture": "#yellow_terracotta",
+          "texture": "#hardened_clay_stained_yellow",
           "cullface": "up"
         }
       }
@@ -3420,7 +3420,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -3429,7 +3429,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -3438,7 +3438,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -3447,7 +3447,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -3456,7 +3456,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -3465,7 +3465,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -3489,7 +3489,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -3498,7 +3498,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -3507,7 +3507,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -3516,7 +3516,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -3525,7 +3525,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -3534,7 +3534,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -3558,7 +3558,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -3567,7 +3567,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -3576,7 +3576,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -3585,7 +3585,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -3594,7 +3594,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -3603,7 +3603,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -3627,7 +3627,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -3636,7 +3636,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -3645,7 +3645,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -3654,7 +3654,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -3663,7 +3663,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -3672,7 +3672,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -3696,7 +3696,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -3705,7 +3705,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -3714,7 +3714,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -3723,7 +3723,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -3732,7 +3732,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -3741,7 +3741,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -3765,7 +3765,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -3774,7 +3774,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -3783,7 +3783,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -3792,7 +3792,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -3801,7 +3801,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -3810,7 +3810,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -3834,7 +3834,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -3843,7 +3843,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -3852,7 +3852,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -3861,7 +3861,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -3870,7 +3870,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -3879,7 +3879,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -3903,7 +3903,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -3912,7 +3912,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -3921,7 +3921,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -3930,7 +3930,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -3939,7 +3939,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -3948,7 +3948,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -3972,7 +3972,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -3981,7 +3981,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -3990,7 +3990,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -3999,7 +3999,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4008,7 +4008,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4017,7 +4017,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4041,7 +4041,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4050,7 +4050,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4059,7 +4059,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4068,7 +4068,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4077,7 +4077,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4086,7 +4086,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4110,7 +4110,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4119,7 +4119,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4128,7 +4128,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4137,7 +4137,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4146,7 +4146,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4155,7 +4155,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4179,7 +4179,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4188,7 +4188,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4197,7 +4197,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4206,7 +4206,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4215,7 +4215,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4224,7 +4224,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4248,7 +4248,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4257,7 +4257,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4266,7 +4266,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4275,7 +4275,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4284,7 +4284,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4293,7 +4293,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4317,7 +4317,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4326,7 +4326,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4335,7 +4335,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4344,7 +4344,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4353,7 +4353,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4362,7 +4362,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4386,7 +4386,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4395,7 +4395,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4404,7 +4404,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4413,7 +4413,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4422,7 +4422,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4431,7 +4431,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4455,7 +4455,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4464,7 +4464,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4473,7 +4473,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4482,7 +4482,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4491,7 +4491,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4500,7 +4500,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4524,7 +4524,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4533,7 +4533,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4542,7 +4542,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4551,7 +4551,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4560,7 +4560,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4569,7 +4569,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4593,7 +4593,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4602,7 +4602,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4611,7 +4611,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4620,7 +4620,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4629,7 +4629,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4638,7 +4638,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4662,7 +4662,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4671,7 +4671,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4680,7 +4680,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4689,7 +4689,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4698,7 +4698,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4707,7 +4707,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4731,7 +4731,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4740,7 +4740,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4749,7 +4749,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4758,7 +4758,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4767,7 +4767,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4776,7 +4776,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4800,7 +4800,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4809,7 +4809,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4818,7 +4818,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4827,7 +4827,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4836,7 +4836,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4845,7 +4845,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4869,7 +4869,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4878,7 +4878,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4887,7 +4887,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4896,7 +4896,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4905,7 +4905,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4914,7 +4914,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -4938,7 +4938,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -4947,7 +4947,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -4956,7 +4956,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -4965,7 +4965,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -4974,7 +4974,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -4983,7 +4983,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -5007,7 +5007,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -5016,7 +5016,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -5025,7 +5025,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -5034,7 +5034,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -5043,7 +5043,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -5052,7 +5052,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -5076,7 +5076,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -5085,7 +5085,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -5094,7 +5094,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -5103,7 +5103,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -5112,7 +5112,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -5121,7 +5121,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -5145,7 +5145,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -5154,7 +5154,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -5163,7 +5163,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -5172,7 +5172,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -5181,7 +5181,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -5190,7 +5190,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -5214,7 +5214,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -5223,7 +5223,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -5232,7 +5232,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -5241,7 +5241,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -5250,7 +5250,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -5259,7 +5259,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -5283,7 +5283,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -5292,7 +5292,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -5301,7 +5301,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -5310,7 +5310,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -5319,7 +5319,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -5328,7 +5328,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -5352,7 +5352,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -5361,7 +5361,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -5370,7 +5370,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -5379,7 +5379,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -5388,7 +5388,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -5397,7 +5397,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -5421,7 +5421,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -5430,7 +5430,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -5439,7 +5439,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -5448,7 +5448,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -5457,7 +5457,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -5466,7 +5466,7 @@
             7.04,
             3.04
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     }

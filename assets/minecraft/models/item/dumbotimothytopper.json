@@ -11,7 +11,7 @@
     "black": "block/black_wool",
     "lightbrown": "block/light_gray_terracotta",
     "tan": "block/white_terracotta",
-    "note_block": "block/note_block"
+    "noteblock": "block/note_block"
   },
   "elements": [
     {
@@ -13069,7 +13069,7 @@
             15,
             15
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -13087,7 +13087,7 @@
             15,
             15
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -13096,7 +13096,7 @@
             15,
             15
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -13105,7 +13105,7 @@
             15,
             15
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -13114,7 +13114,7 @@
             15,
             15
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },

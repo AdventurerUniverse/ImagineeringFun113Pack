@@ -3,15 +3,15 @@
   "textures": {
     "particle": "block/e_particle",
     "texture": "block/e_texture",
-    "BoatWood": "custom/oak_log",
-    "Leaftxt": "custom/green_wool",
-    "Vines": "custom/lime_terracotta",
-    "White": "custom/white_wool",
-    "Red": "custom/red_wool",
-    "Cyan": "custom/cyan_wool",
-    "Pruple": "custom/purple_wool",
-    "Yellow": "custom/yellow_wool",
-    "Orange": "custom/orange_wool"
+    "BoatWood": "custom/log_oak",
+    "Leaftxt": "custom/wool_colored_green",
+    "Vines": "custom/hardened_clay_stained_lime",
+    "White": "custom/wool_colored_white",
+    "Red": "custom/wool_colored_red",
+    "Cyan": "custom/wool_colored_cyan",
+    "Pruple": "custom/wool_colored_purple",
+    "Yellow": "custom/wool_colored_yellow",
+    "Orange": "custom/wool_colored_orange"
   },
   "elements": [
     {

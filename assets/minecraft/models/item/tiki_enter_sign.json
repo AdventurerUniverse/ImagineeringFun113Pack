@@ -1,7 +1,6 @@
 {
   "__comment": "Designed_by_Ghasper_with_Cubik_Studio_-_https://cubik.studio",
   "textures": {
-    "particle": "block/e_particle",
     "texture": "block/e_texture",
     "texture1": "block/red_wool",
     "texture2": "block/hay_block_top",

@@ -2,22 +2,22 @@
   "__comment": "Designed_by_Cm@BlackSpigotMC_with_Cubik_Studio_-_https://cubik.studio",
   "textures": {
     "particle": "block/e_particle",
-    "lime_shulker_box": "block/lime_shulker_box",
-    "orange_terracotta": "block/orange_terracotta",
-    "purple_wool": "block/purple_wool",
-    "mickey": "item/dandelion_yellow",
+    "shulker_top_lime": "block/lime_shulker_box",
+    "hardened_clay_stained_orange": "block/orange_terracotta",
+    "wool_colored_purple": "block/purple_wool",
+    "mickey": "item/yellow_dye",
     "bone_block_top": "block/bone_block_top",
-    "black_wool": "block/black_wool",
-    "light_gray_wool": "block/light_gray_wool",
-    "gray_wool": "block/gray_wool",
+    "wool_colored_black": "block/black_wool",
+    "wool_colored_silver": "block/light_gray_wool",
+    "wool_colored_gray": "block/gray_wool",
     "candy_texture": "custom/candy_texture",
-    "orange_wool": "block/orange_wool",
-    "yellow_wool": "block/yellow_wool",
-    "red_wool": "block/red_wool"
+    "wool_colored_orange": "block/orange_wool",
+    "wool_colored_yellow": "block/yellow_wool",
+    "wool_colored_red": "block/red_wool"
   },
   "elements": [
     {
-      "__comment": "lime_shulker_box",
+      "__comment": "shulker_top_lime",
       "from": [
         2.5,
         3.5,
@@ -36,7 +36,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "up": {
           "uv": [
@@ -45,7 +45,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "north": {
           "uv": [
@@ -54,7 +54,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "south": {
           "uv": [
@@ -63,7 +63,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "west": {
           "uv": [
@@ -72,7 +72,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "east": {
           "uv": [
@@ -81,12 +81,12 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         }
       }
     },
     {
-      "__comment": "lime_shulker_box",
+      "__comment": "shulker_top_lime",
       "from": [
         3,
         3.5,
@@ -105,7 +105,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "up": {
           "uv": [
@@ -114,7 +114,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "north": {
           "uv": [
@@ -123,7 +123,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box",
+          "texture": "#shulker_top_lime",
           "rotation": 90
         },
         "south": {
@@ -133,7 +133,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box",
+          "texture": "#shulker_top_lime",
           "rotation": 270
         },
         "west": {
@@ -143,7 +143,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box",
+          "texture": "#shulker_top_lime",
           "rotation": 270
         },
         "east": {
@@ -153,13 +153,13 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box",
+          "texture": "#shulker_top_lime",
           "rotation": 90
         }
       }
     },
     {
-      "__comment": "lime_shulker_box",
+      "__comment": "shulker_top_lime",
       "from": [
         3,
         3.5,
@@ -178,7 +178,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "up": {
           "uv": [
@@ -187,7 +187,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "north": {
           "uv": [
@@ -196,7 +196,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "south": {
           "uv": [
@@ -205,7 +205,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "west": {
           "uv": [
@@ -214,7 +214,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "east": {
           "uv": [
@@ -223,12 +223,12 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         2,
         11.5,
@@ -247,7 +247,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -256,7 +256,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -265,7 +265,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -274,7 +274,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -283,7 +283,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -292,12 +292,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         2,
         5.5,
@@ -316,7 +316,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -325,7 +325,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -334,7 +334,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -343,7 +343,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -352,7 +352,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -361,12 +361,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         2,
         6,
@@ -385,7 +385,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -394,7 +394,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -403,7 +403,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -412,7 +412,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -421,7 +421,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -430,12 +430,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         2,
         6,
@@ -454,7 +454,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -463,7 +463,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -472,7 +472,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -481,7 +481,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -490,7 +490,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -499,7 +499,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
@@ -573,7 +573,7 @@
       }
     },
     {
-      "__comment": "rose_red",
+      "__comment": "dye_powder_red",
       "from": [
         1.999,
         10,
@@ -651,7 +651,7 @@
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         13.5,
         11.5,
@@ -670,7 +670,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -679,7 +679,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -688,7 +688,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -697,7 +697,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -706,7 +706,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -715,12 +715,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         13.5,
         5.5,
@@ -739,7 +739,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -748,7 +748,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -757,7 +757,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -766,7 +766,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -775,7 +775,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -784,12 +784,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         13.5,
         6,
@@ -808,7 +808,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -817,7 +817,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -826,7 +826,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -835,7 +835,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -844,7 +844,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -853,12 +853,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         13.5,
         6,
@@ -877,7 +877,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -886,7 +886,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -895,7 +895,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -904,7 +904,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -913,7 +913,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -922,7 +922,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
@@ -996,7 +996,7 @@
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         10,
         6,
@@ -1015,7 +1015,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -1024,7 +1024,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -1033,7 +1033,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -1042,7 +1042,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -1051,7 +1051,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -1060,12 +1060,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         5.5,
         6,
@@ -1084,7 +1084,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -1093,7 +1093,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -1102,7 +1102,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -1111,7 +1111,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -1120,7 +1120,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -1129,12 +1129,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         5.5,
         5.5,
@@ -1153,7 +1153,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -1162,7 +1162,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -1171,7 +1171,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -1180,7 +1180,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -1189,7 +1189,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -1198,12 +1198,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         5.5,
         11.5,
@@ -1222,7 +1222,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -1231,7 +1231,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -1240,7 +1240,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -1249,7 +1249,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -1258,7 +1258,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -1267,7 +1267,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
@@ -1410,7 +1410,7 @@
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         10,
         6,
@@ -1429,7 +1429,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -1438,7 +1438,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -1447,7 +1447,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -1456,7 +1456,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -1465,7 +1465,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -1474,12 +1474,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         5.5,
         6,
@@ -1498,7 +1498,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -1507,7 +1507,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -1516,7 +1516,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -1525,7 +1525,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -1534,7 +1534,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -1543,12 +1543,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         5.5,
         5.5,
@@ -1567,7 +1567,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -1576,7 +1576,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -1585,7 +1585,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -1594,7 +1594,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -1603,7 +1603,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -1612,12 +1612,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "orange_terracotta",
+      "__comment": "hardened_clay_stained_orange",
       "from": [
         5.5,
         11.5,
@@ -1636,7 +1636,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "up": {
           "uv": [
@@ -1645,7 +1645,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "north": {
           "uv": [
@@ -1654,7 +1654,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "south": {
           "uv": [
@@ -1663,7 +1663,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "west": {
           "uv": [
@@ -1672,7 +1672,7 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         },
         "east": {
           "uv": [
@@ -1681,12 +1681,12 @@
             16,
             16
           ],
-          "texture": "#orange_terracotta"
+          "texture": "#hardened_clay_stained_orange"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         6.5,
         10.5,
@@ -1705,7 +1705,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "up": {
@@ -1715,7 +1715,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "north": {
@@ -1725,7 +1725,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -1734,7 +1734,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -1743,7 +1743,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -1752,12 +1752,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         6.5,
         6.5,
@@ -1776,7 +1776,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "up": {
@@ -1786,7 +1786,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "north": {
@@ -1796,7 +1796,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -1805,7 +1805,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -1814,7 +1814,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -1823,12 +1823,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         6,
         7,
@@ -1847,7 +1847,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -1856,7 +1856,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -1865,7 +1865,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -1874,7 +1874,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -1883,7 +1883,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -1892,12 +1892,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         9,
         7,
@@ -1916,7 +1916,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -1925,7 +1925,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -1934,7 +1934,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -1943,7 +1943,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -1952,7 +1952,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -1961,12 +1961,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         6,
         10,
@@ -1985,7 +1985,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -1994,7 +1994,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -2003,7 +2003,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -2012,7 +2012,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -2021,7 +2021,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -2030,12 +2030,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         9,
         10,
@@ -2054,7 +2054,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -2063,7 +2063,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -2072,7 +2072,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -2081,7 +2081,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -2090,7 +2090,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -2099,12 +2099,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         6,
         10,
@@ -2123,7 +2123,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "up": {
@@ -2133,7 +2133,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "north": {
@@ -2143,7 +2143,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -2152,7 +2152,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -2161,7 +2161,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -2170,12 +2170,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         6.5,
         10.5,
@@ -2194,7 +2194,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -2203,7 +2203,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -2212,7 +2212,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -2221,7 +2221,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -2230,7 +2230,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -2239,12 +2239,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         6.5,
         6.5,
@@ -2263,7 +2263,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -2272,7 +2272,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -2281,7 +2281,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -2290,7 +2290,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -2299,7 +2299,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -2308,12 +2308,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         9,
         7,
@@ -2332,7 +2332,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "up": {
@@ -2342,7 +2342,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "north": {
@@ -2352,7 +2352,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -2361,7 +2361,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -2370,7 +2370,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -2379,12 +2379,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         6,
         7,
@@ -2403,7 +2403,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "up": {
@@ -2413,7 +2413,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "north": {
@@ -2423,7 +2423,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -2432,7 +2432,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -2441,7 +2441,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -2450,12 +2450,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         9,
         10,
@@ -2474,7 +2474,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "up": {
@@ -2484,7 +2484,7 @@
             16,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 180
         },
         "north": {
@@ -2494,7 +2494,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -2503,7 +2503,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -2512,7 +2512,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -2521,12 +2521,12 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "rose_red",
+      "__comment": "dye_powder_red",
       "from": [
         14,
         10,
@@ -2606,7 +2606,7 @@
       }
     },
     {
-      "__comment": "purple_wool",
+      "__comment": "wool_colored_purple",
       "from": [
         1.5,
         7,
@@ -2625,7 +2625,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "up": {
@@ -2635,7 +2635,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "north": {
@@ -2645,7 +2645,7 @@
             2,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "south": {
           "uv": [
@@ -2654,7 +2654,7 @@
             14.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "west": {
           "uv": [
@@ -2663,7 +2663,7 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "east": {
           "uv": [
@@ -2672,12 +2672,12 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         }
       }
     },
     {
-      "__comment": "purple_wool",
+      "__comment": "wool_colored_purple",
       "from": [
         1.5,
         6.5,
@@ -2696,7 +2696,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "up": {
@@ -2706,7 +2706,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "north": {
@@ -2716,7 +2716,7 @@
             2,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "south": {
           "uv": [
@@ -2725,7 +2725,7 @@
             14.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "west": {
           "uv": [
@@ -2734,7 +2734,7 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "east": {
           "uv": [
@@ -2743,12 +2743,12 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         }
       }
     },
     {
-      "__comment": "purple_wool",
+      "__comment": "wool_colored_purple",
       "from": [
         1.5,
         10,
@@ -2767,7 +2767,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "up": {
@@ -2777,7 +2777,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "north": {
@@ -2787,7 +2787,7 @@
             2,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "south": {
           "uv": [
@@ -2796,7 +2796,7 @@
             14.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "west": {
           "uv": [
@@ -2805,7 +2805,7 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "east": {
           "uv": [
@@ -2814,12 +2814,12 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         3,
         4,
@@ -2838,7 +2838,7 @@
             1,
             1
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "up": {
@@ -2848,7 +2848,7 @@
             4,
             13.5
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         },
         "north": {
@@ -2858,7 +2858,7 @@
             4,
             13.5
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "south": {
@@ -2868,7 +2868,7 @@
             3,
             13.5
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         },
         "west": {
@@ -2878,7 +2878,7 @@
             4,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -2887,12 +2887,12 @@
             3,
             14.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         3,
         4.5,
@@ -2911,7 +2911,7 @@
             1,
             1
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "up": {
@@ -2921,7 +2921,7 @@
             1,
             0
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         },
         "north": {
@@ -2931,7 +2931,7 @@
             1,
             0
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "south": {
@@ -2941,7 +2941,7 @@
             0,
             0
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         },
         "west": {
@@ -2951,7 +2951,7 @@
             1,
             0
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -2960,12 +2960,12 @@
             0,
             1
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         12.9991,
         4.5,
@@ -2984,7 +2984,7 @@
             0,
             15
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         },
         "up": {
@@ -2994,7 +2994,7 @@
             0,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "north": {
@@ -3004,7 +3004,7 @@
             0,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         },
         "south": {
@@ -3014,7 +3014,7 @@
             1,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "west": {
@@ -3024,7 +3024,7 @@
             1,
             15
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "east": {
@@ -3034,13 +3034,13 @@
             0,
             15
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         2.9999,
         4.5,
@@ -3059,7 +3059,7 @@
             0,
             0
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -3068,7 +3068,7 @@
             0,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -3077,7 +3077,7 @@
             0,
             1
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         },
         "south": {
@@ -3087,7 +3087,7 @@
             1,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "west": {
@@ -3097,7 +3097,7 @@
             1,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "east": {
@@ -3107,13 +3107,13 @@
             0,
             16
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         3.0001,
         4.5,
@@ -3132,7 +3132,7 @@
             1,
             1
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "up": {
@@ -3142,7 +3142,7 @@
             1,
             0
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         },
         "north": {
@@ -3152,7 +3152,7 @@
             1,
             0
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 270
         },
         "south": {
@@ -3162,7 +3162,7 @@
             0,
             0
           ],
-          "texture": "#black_wool",
+          "texture": "#wool_colored_black",
           "rotation": 90
         },
         "west": {
@@ -3172,7 +3172,7 @@
             1,
             0
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -3181,12 +3181,12 @@
             0,
             1
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         4,
         3,
@@ -3205,7 +3205,7 @@
             6,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -3214,7 +3214,7 @@
             6,
             0.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -3223,7 +3223,7 @@
             12,
             13
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -3232,7 +3232,7 @@
             6,
             13
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -3241,7 +3241,7 @@
             0.5,
             13
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -3250,12 +3250,12 @@
             16,
             13
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         10,
         3,
@@ -3274,7 +3274,7 @@
             6,
             14.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -3283,7 +3283,7 @@
             6,
             3.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -3292,7 +3292,7 @@
             12,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -3301,7 +3301,7 @@
             6,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -3310,7 +3310,7 @@
             3.5,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -3319,12 +3319,12 @@
             14.5,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         4,
         3,
@@ -3343,7 +3343,7 @@
             6,
             14.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -3352,7 +3352,7 @@
             6,
             3.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -3361,7 +3361,7 @@
             12,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -3370,7 +3370,7 @@
             6,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -3379,7 +3379,7 @@
             3.5,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -3388,12 +3388,12 @@
             14.5,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         10,
         3,
@@ -3412,7 +3412,7 @@
             6,
             14.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -3421,7 +3421,7 @@
             6,
             3.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -3430,7 +3430,7 @@
             12,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -3439,7 +3439,7 @@
             6,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -3448,7 +3448,7 @@
             3.5,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -3457,12 +3457,12 @@
             14.5,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         4,
         1.5,
@@ -3481,7 +3481,7 @@
             4.5,
             1
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -3490,7 +3490,7 @@
             4.5,
             15.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -3499,7 +3499,7 @@
             12,
             14.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -3508,7 +3508,7 @@
             4.5,
             14.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -3517,7 +3517,7 @@
             15.5,
             14.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -3526,12 +3526,12 @@
             1,
             14.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         5.5,
         1.5,
@@ -3550,7 +3550,7 @@
             5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -3559,7 +3559,7 @@
             5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -3568,7 +3568,7 @@
             11.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -3577,7 +3577,7 @@
             5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -3586,7 +3586,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -3595,12 +3595,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         11.5,
         1.5,
@@ -3619,7 +3619,7 @@
             5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -3628,7 +3628,7 @@
             5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -3637,7 +3637,7 @@
             11.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -3646,7 +3646,7 @@
             5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -3655,7 +3655,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -3664,12 +3664,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         10,
         1.5,
@@ -3688,7 +3688,7 @@
             5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -3697,7 +3697,7 @@
             5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -3706,7 +3706,7 @@
             11.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -3715,7 +3715,7 @@
             5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -3724,7 +3724,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -3733,12 +3733,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         10,
         1.5,
@@ -3766,7 +3766,7 @@
             5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -3775,7 +3775,7 @@
             5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -3784,7 +3784,7 @@
             11.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -3793,7 +3793,7 @@
             5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -3802,7 +3802,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -3811,12 +3811,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         4.5,
         1.5,
@@ -3844,7 +3844,7 @@
             5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -3853,7 +3853,7 @@
             5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -3862,7 +3862,7 @@
             11.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -3871,7 +3871,7 @@
             5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -3880,7 +3880,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -3889,12 +3889,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         6,
         1.5,
@@ -3922,7 +3922,7 @@
             5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -3931,7 +3931,7 @@
             5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -3940,7 +3940,7 @@
             11.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -3949,7 +3949,7 @@
             5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -3958,7 +3958,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -3967,12 +3967,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         11.5,
         1.5,
@@ -4000,7 +4000,7 @@
             5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -4009,7 +4009,7 @@
             5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -4018,7 +4018,7 @@
             11.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -4027,7 +4027,7 @@
             5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -4036,7 +4036,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -4045,12 +4045,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         5.5,
         0.5,
@@ -4078,7 +4078,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4087,7 +4087,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4096,7 +4096,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4105,7 +4105,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4114,7 +4114,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4123,12 +4123,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         5.5,
         2,
@@ -4156,7 +4156,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4165,7 +4165,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4174,7 +4174,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4183,7 +4183,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4192,7 +4192,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4201,12 +4201,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         5.5,
         0,
@@ -4234,7 +4234,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4243,7 +4243,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4252,7 +4252,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4261,7 +4261,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4270,7 +4270,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4279,12 +4279,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         11,
         0,
@@ -4312,7 +4312,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4321,7 +4321,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4330,7 +4330,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4339,7 +4339,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4348,7 +4348,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4357,12 +4357,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         11,
         0.5,
@@ -4390,7 +4390,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4399,7 +4399,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4408,7 +4408,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4417,7 +4417,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4426,7 +4426,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4435,12 +4435,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         11,
         2,
@@ -4468,7 +4468,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4477,7 +4477,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4486,7 +4486,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4495,7 +4495,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4504,7 +4504,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4513,12 +4513,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "lime_shulker_box",
+      "__comment": "shulker_top_lime",
       "from": [
         13,
         3.5,
@@ -4537,7 +4537,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "up": {
           "uv": [
@@ -4546,7 +4546,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "north": {
           "uv": [
@@ -4555,7 +4555,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "south": {
           "uv": [
@@ -4564,7 +4564,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "west": {
           "uv": [
@@ -4573,7 +4573,7 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         },
         "east": {
           "uv": [
@@ -4582,12 +4582,12 @@
             16,
             16
           ],
-          "texture": "#lime_shulker_box"
+          "texture": "#shulker_top_lime"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         10.5,
         2,
@@ -4606,7 +4606,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4615,7 +4615,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4624,7 +4624,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4633,7 +4633,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4642,7 +4642,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4651,12 +4651,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         10.5,
         0,
@@ -4675,7 +4675,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4684,7 +4684,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4693,7 +4693,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4702,7 +4702,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4711,7 +4711,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4720,12 +4720,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         10.5,
         0.5,
@@ -4744,7 +4744,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4753,7 +4753,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4762,7 +4762,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4771,7 +4771,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4780,7 +4780,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4789,12 +4789,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         4.5,
         0.5,
@@ -4813,7 +4813,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4822,7 +4822,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4831,7 +4831,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4840,7 +4840,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4849,7 +4849,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4858,12 +4858,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         4.5,
         2,
@@ -4882,7 +4882,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4891,7 +4891,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4900,7 +4900,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4909,7 +4909,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4918,7 +4918,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4927,12 +4927,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         4.5,
         0,
@@ -4951,7 +4951,7 @@
             5,
             13.5
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -4960,7 +4960,7 @@
             5,
             3
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -4969,7 +4969,7 @@
             11.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -4978,7 +4978,7 @@
             5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -4987,7 +4987,7 @@
             3,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -4996,12 +4996,12 @@
             13.5,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         4,
         2,
@@ -5020,7 +5020,7 @@
             4.5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -5029,7 +5029,7 @@
             4.5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -5038,7 +5038,7 @@
             12,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -5047,7 +5047,7 @@
             4.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -5056,7 +5056,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -5065,12 +5065,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         4,
         2,
@@ -5089,7 +5089,7 @@
             4.5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -5098,7 +5098,7 @@
             4.5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -5107,7 +5107,7 @@
             12,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -5116,7 +5116,7 @@
             4.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -5125,7 +5125,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -5134,12 +5134,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         5.5,
         2,
@@ -5158,7 +5158,7 @@
             4.5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -5167,7 +5167,7 @@
             4.5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -5176,7 +5176,7 @@
             12,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -5185,7 +5185,7 @@
             4.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -5194,7 +5194,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -5203,12 +5203,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         5.5,
         2,
@@ -5227,7 +5227,7 @@
             4.5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -5236,7 +5236,7 @@
             4.5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -5245,7 +5245,7 @@
             12,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -5254,7 +5254,7 @@
             4.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -5263,7 +5263,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -5272,12 +5272,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         10,
         2,
@@ -5296,7 +5296,7 @@
             4.5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -5305,7 +5305,7 @@
             4.5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -5314,7 +5314,7 @@
             12,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -5323,7 +5323,7 @@
             4.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -5332,7 +5332,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -5341,12 +5341,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         10,
         2,
@@ -5365,7 +5365,7 @@
             4.5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -5374,7 +5374,7 @@
             4.5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -5383,7 +5383,7 @@
             12,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -5392,7 +5392,7 @@
             4.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -5401,7 +5401,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -5410,12 +5410,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         11.5,
         2,
@@ -5434,7 +5434,7 @@
             4.5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -5443,7 +5443,7 @@
             4.5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -5452,7 +5452,7 @@
             12,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -5461,7 +5461,7 @@
             4.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -5470,7 +5470,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -5479,12 +5479,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "light_gray_wool",
+      "__comment": "wool_colored_silver",
       "from": [
         11.5,
         2,
@@ -5503,7 +5503,7 @@
             4.5,
             13.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -5512,7 +5512,7 @@
             4.5,
             3
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -5521,7 +5521,7 @@
             12,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -5530,7 +5530,7 @@
             4.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -5539,7 +5539,7 @@
             3,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -5548,12 +5548,12 @@
             13.5,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
     {
-      "__comment": "purple_wool",
+      "__comment": "wool_colored_purple",
       "from": [
         14,
         10,
@@ -5572,7 +5572,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "up": {
@@ -5582,7 +5582,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "north": {
@@ -5592,7 +5592,7 @@
             2,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "south": {
           "uv": [
@@ -5601,7 +5601,7 @@
             14.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "west": {
           "uv": [
@@ -5610,7 +5610,7 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "east": {
           "uv": [
@@ -5619,12 +5619,12 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         }
       }
     },
     {
-      "__comment": "purple_wool",
+      "__comment": "wool_colored_purple",
       "from": [
         14,
         7,
@@ -5643,7 +5643,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "up": {
@@ -5653,7 +5653,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "north": {
@@ -5663,7 +5663,7 @@
             2,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "south": {
           "uv": [
@@ -5672,7 +5672,7 @@
             14.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "west": {
           "uv": [
@@ -5681,7 +5681,7 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "east": {
           "uv": [
@@ -5690,12 +5690,12 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         }
       }
     },
     {
-      "__comment": "purple_wool",
+      "__comment": "wool_colored_purple",
       "from": [
         14,
         6.5,
@@ -5714,7 +5714,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "up": {
@@ -5724,7 +5724,7 @@
             2,
             10.5
           ],
-          "texture": "#purple_wool",
+          "texture": "#wool_colored_purple",
           "rotation": 180
         },
         "north": {
@@ -5734,7 +5734,7 @@
             2,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "south": {
           "uv": [
@@ -5743,7 +5743,7 @@
             14.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "west": {
           "uv": [
@@ -5752,7 +5752,7 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         },
         "east": {
           "uv": [
@@ -5761,12 +5761,12 @@
             10.5,
             11
           ],
-          "texture": "#purple_wool"
+          "texture": "#wool_colored_purple"
         }
       }
     },
     {
-      "__comment": "black_wool",
+      "__comment": "wool_colored_black",
       "from": [
         3,
         10,
@@ -5785,7 +5785,7 @@
             15,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "up": {
           "uv": [
@@ -5794,7 +5794,7 @@
             15,
             15
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "north": {
           "uv": [
@@ -5803,7 +5803,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "south": {
           "uv": [
@@ -5812,7 +5812,7 @@
             15,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "west": {
           "uv": [
@@ -5821,7 +5821,7 @@
             16,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         },
         "east": {
           "uv": [
@@ -5830,7 +5830,7 @@
             14,
             16
           ],
-          "texture": "#black_wool"
+          "texture": "#wool_colored_black"
         }
       }
     },
@@ -6537,7 +6537,7 @@
       }
     },
     {
-      "__comment": "orange_wool",
+      "__comment": "wool_colored_orange",
       "from": [
         8.5,
         8.5,
@@ -6565,7 +6565,7 @@
             16,
             16
           ],
-          "texture": "#orange_wool"
+          "texture": "#wool_colored_orange"
         },
         "up": {
           "uv": [
@@ -6574,7 +6574,7 @@
             16,
             16
           ],
-          "texture": "#orange_wool"
+          "texture": "#wool_colored_orange"
         },
         "north": {
           "uv": [
@@ -6583,7 +6583,7 @@
             16,
             16
           ],
-          "texture": "#orange_wool"
+          "texture": "#wool_colored_orange"
         },
         "south": {
           "uv": [
@@ -6592,7 +6592,7 @@
             16,
             16
           ],
-          "texture": "#orange_wool"
+          "texture": "#wool_colored_orange"
         },
         "west": {
           "uv": [
@@ -6601,7 +6601,7 @@
             16,
             16
           ],
-          "texture": "#orange_wool"
+          "texture": "#wool_colored_orange"
         },
         "east": {
           "uv": [
@@ -6610,12 +6610,12 @@
             16,
             16
           ],
-          "texture": "#orange_wool"
+          "texture": "#wool_colored_orange"
         }
       }
     },
     {
-      "__comment": "yellow_wool",
+      "__comment": "wool_colored_yellow",
       "from": [
         7,
         8.5,
@@ -6643,7 +6643,7 @@
             16,
             16
           ],
-          "texture": "#yellow_wool"
+          "texture": "#wool_colored_yellow"
         },
         "up": {
           "uv": [
@@ -6652,7 +6652,7 @@
             16,
             16
           ],
-          "texture": "#yellow_wool"
+          "texture": "#wool_colored_yellow"
         },
         "north": {
           "uv": [
@@ -6661,7 +6661,7 @@
             16,
             16
           ],
-          "texture": "#yellow_wool",
+          "texture": "#wool_colored_yellow",
           "rotation": 180
         },
         "south": {
@@ -6671,7 +6671,7 @@
             16,
             16
           ],
-          "texture": "#yellow_wool",
+          "texture": "#wool_colored_yellow",
           "rotation": 180
         },
         "west": {
@@ -6681,7 +6681,7 @@
             0,
             0
           ],
-          "texture": "#yellow_wool"
+          "texture": "#wool_colored_yellow"
         },
         "east": {
           "uv": [
@@ -6690,12 +6690,12 @@
             0,
             0
           ],
-          "texture": "#yellow_wool"
+          "texture": "#wool_colored_yellow"
         }
       }
     },
     {
-      "__comment": "red_wool",
+      "__comment": "wool_colored_red",
       "from": [
         7.5488,
         9.1178,
@@ -6714,7 +6714,7 @@
             16,
             16
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 270
         },
         "up": {
@@ -6724,7 +6724,7 @@
             0,
             0
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 90
         },
         "north": {
@@ -6734,7 +6734,7 @@
             16,
             16
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 90
         },
         "south": {
@@ -6744,7 +6744,7 @@
             16,
             16
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 270
         },
         "west": {
@@ -6754,7 +6754,7 @@
             0,
             0
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 90
         },
         "east": {
@@ -6764,13 +6764,13 @@
             16,
             16
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 270
         }
       }
     },
     {
-      "__comment": "orange_wool",
+      "__comment": "wool_colored_orange",
       "from": [
         7,
         9,
@@ -6798,7 +6798,7 @@
             16,
             16
           ],
-          "texture": "#orange_wool"
+          "texture": "#wool_colored_orange"
         },
         "up": {
           "uv": [
@@ -6807,7 +6807,7 @@
             16,
             16
           ],
-          "texture": "#orange_wool"
+          "texture": "#wool_colored_orange"
         },
         "north": {
           "uv": [
@@ -6816,7 +6816,7 @@
             16,
             16
           ],
-          "texture": "#orange_wool",
+          "texture": "#wool_colored_orange",
           "rotation": 180
         },
         "south": {
@@ -6826,7 +6826,7 @@
             16,
             16
           ],
-          "texture": "#orange_wool",
+          "texture": "#wool_colored_orange",
           "rotation": 180
         },
         "west": {
@@ -6836,7 +6836,7 @@
             0,
             0
           ],
-          "texture": "#orange_wool"
+          "texture": "#wool_colored_orange"
         },
         "east": {
           "uv": [
@@ -6845,12 +6845,12 @@
             0,
             0
           ],
-          "texture": "#orange_wool"
+          "texture": "#wool_colored_orange"
         }
       }
     },
     {
-      "__comment": "yellow_wool",
+      "__comment": "wool_colored_yellow",
       "from": [
         7.5772,
         7.8879,
@@ -6878,7 +6878,7 @@
             0,
             0
           ],
-          "texture": "#yellow_wool"
+          "texture": "#wool_colored_yellow"
         },
         "up": {
           "uv": [
@@ -6887,7 +6887,7 @@
             0,
             0
           ],
-          "texture": "#yellow_wool"
+          "texture": "#wool_colored_yellow"
         },
         "north": {
           "uv": [
@@ -6896,7 +6896,7 @@
             16,
             16
           ],
-          "texture": "#yellow_wool",
+          "texture": "#wool_colored_yellow",
           "rotation": 180
         },
         "south": {
@@ -6906,7 +6906,7 @@
             16,
             16
           ],
-          "texture": "#yellow_wool",
+          "texture": "#wool_colored_yellow",
           "rotation": 180
         },
         "west": {
@@ -6916,7 +6916,7 @@
             16,
             16
           ],
-          "texture": "#yellow_wool",
+          "texture": "#wool_colored_yellow",
           "rotation": 180
         },
         "east": {
@@ -6926,13 +6926,13 @@
             16,
             16
           ],
-          "texture": "#yellow_wool",
+          "texture": "#wool_colored_yellow",
           "rotation": 180
         }
       }
     },
     {
-      "__comment": "red_wool",
+      "__comment": "wool_colored_red",
       "from": [
         7.9512,
         9.1178,
@@ -6951,7 +6951,7 @@
             16,
             16
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 90
         },
         "up": {
@@ -6961,7 +6961,7 @@
             0,
             0
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 270
         },
         "north": {
@@ -6971,7 +6971,7 @@
             16,
             16
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 270
         },
         "south": {
@@ -6981,7 +6981,7 @@
             16,
             16
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 90
         },
         "west": {
@@ -6991,7 +6991,7 @@
             16,
             16
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 270
         },
         "east": {
@@ -7001,7 +7001,7 @@
             0,
             0
           ],
-          "texture": "#red_wool",
+          "texture": "#wool_colored_red",
           "rotation": 90
         }
       }

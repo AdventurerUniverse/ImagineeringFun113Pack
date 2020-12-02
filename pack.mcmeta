@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 4,
-    "description": "The Official Resource Pack of Imagineering Fun! Now featuring Space Mountain!"
+    "pack_format": 6,
+    "description": "Happy holidays!"
   },
   "meta": {
-    "game_version": "1.13"
+    "game_version": "1.16.3"
   }
 }

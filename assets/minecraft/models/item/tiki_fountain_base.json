@@ -3,15 +3,15 @@
   "textures": {
     "particle": "block/particle",
     "mycelium_top": "block/mycelium_top",
-    "polished_andesite": "block/polished_andesite",
-    "redstone_lamp": "block/redstone_lamp",
-    "light_blue_terracotta": "block/light_blue_terracotta",
+    "stone_andesite_smooth": "block/polished_andesite",
+    "redstone_lamp_off": "block/redstone_lamp",
+    "hardened_clay_stained_light_blue": "block/light_blue_terracotta",
     "sandstone_bottom": "block/sandstone_bottom",
-    "dark_oak_log": "block/dark_oak_log",
-    "yellow_terracotta": "block/yellow_terracotta",
-    "red_terracotta": "block/red_terracotta",
+    "log_big_oak": "block/dark_oak_log",
+    "hardened_clay_stained_yellow": "block/yellow_terracotta",
+    "hardened_clay_stained_red": "block/red_terracotta",
     "tiki_fountain_face": "custom/tiki_fountain_face",
-    "light_blue_wool": "block/light_blue_wool"
+    "wool_colored_light_blue": "block/light_blue_wool"
   },
   "elements": [
     {
@@ -379,7 +379,7 @@
             16,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -388,7 +388,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -397,7 +397,7 @@
             15,
             6
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -406,7 +406,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -415,7 +415,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -424,7 +424,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -448,7 +448,7 @@
             16,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -457,7 +457,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -466,7 +466,7 @@
             15,
             6
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -475,7 +475,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -484,7 +484,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -493,7 +493,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -517,7 +517,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -526,7 +526,7 @@
             1,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -535,7 +535,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -544,7 +544,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -553,7 +553,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -562,7 +562,7 @@
             15,
             2
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -586,7 +586,7 @@
             1,
             15
           ],
-          "texture": "#redstone_lamp"
+          "texture": "#redstone_lamp_off"
         },
         "up": {
           "uv": [
@@ -595,7 +595,7 @@
             16,
             16
           ],
-          "texture": "#redstone_lamp"
+          "texture": "#redstone_lamp_off"
         }
       }
     },
@@ -619,7 +619,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -628,7 +628,7 @@
             1,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -637,7 +637,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -646,7 +646,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -655,7 +655,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -664,7 +664,7 @@
             15,
             2
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -688,7 +688,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -697,7 +697,7 @@
             1,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -706,7 +706,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -715,7 +715,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -724,7 +724,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -733,7 +733,7 @@
             15,
             2
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -757,7 +757,7 @@
             1,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -766,7 +766,7 @@
             1,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -775,7 +775,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -784,7 +784,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -793,7 +793,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -802,7 +802,7 @@
             15,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -826,7 +826,7 @@
             1,
             14.5
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -835,7 +835,7 @@
             1,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -844,7 +844,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -853,7 +853,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -862,7 +862,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -871,7 +871,7 @@
             15,
             2
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -895,7 +895,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -904,7 +904,7 @@
             1,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -913,7 +913,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -922,7 +922,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -931,7 +931,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -940,7 +940,7 @@
             15,
             2
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -964,7 +964,7 @@
             16,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -973,7 +973,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -982,7 +982,7 @@
             15,
             6
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -991,7 +991,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -1000,7 +1000,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -1009,7 +1009,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -1033,7 +1033,7 @@
             16,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -1042,7 +1042,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -1051,7 +1051,7 @@
             15,
             6
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -1060,7 +1060,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -1069,7 +1069,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -1078,7 +1078,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -1102,7 +1102,7 @@
             16,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -1111,7 +1111,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -1120,7 +1120,7 @@
             15,
             6
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -1129,7 +1129,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -1138,7 +1138,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -1147,7 +1147,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -1531,7 +1531,7 @@
             16,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -1540,7 +1540,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -1549,7 +1549,7 @@
             15,
             6
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -1558,7 +1558,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -1567,7 +1567,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -1576,7 +1576,7 @@
             14,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -1684,7 +1684,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "up": {
           "uv": [
@@ -1693,7 +1693,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "north": {
           "uv": [
@@ -1702,7 +1702,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -1711,7 +1711,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -1720,7 +1720,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -1729,7 +1729,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -1753,7 +1753,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "up": {
           "uv": [
@@ -1762,7 +1762,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "north": {
           "uv": [
@@ -1771,7 +1771,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -1780,7 +1780,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -1789,7 +1789,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -1798,7 +1798,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -1822,7 +1822,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "up": {
           "uv": [
@@ -1831,7 +1831,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "north": {
           "uv": [
@@ -1840,7 +1840,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -1849,7 +1849,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -1858,7 +1858,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -1867,7 +1867,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -1891,7 +1891,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "up": {
           "uv": [
@@ -1900,7 +1900,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "north": {
           "uv": [
@@ -1909,7 +1909,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -1918,7 +1918,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -1927,7 +1927,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -1936,7 +1936,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -1960,7 +1960,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "up": {
           "uv": [
@@ -1969,7 +1969,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "north": {
           "uv": [
@@ -1978,7 +1978,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -1987,7 +1987,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -1996,7 +1996,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2005,7 +2005,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2029,7 +2029,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "up": {
           "uv": [
@@ -2038,7 +2038,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "north": {
           "uv": [
@@ -2047,7 +2047,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2056,7 +2056,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2065,7 +2065,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2074,7 +2074,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2098,7 +2098,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "up": {
           "uv": [
@@ -2107,7 +2107,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "north": {
           "uv": [
@@ -2116,7 +2116,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2125,7 +2125,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2134,7 +2134,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2143,7 +2143,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2167,7 +2167,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "up": {
           "uv": [
@@ -2176,7 +2176,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "north": {
           "uv": [
@@ -2185,7 +2185,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2194,7 +2194,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2203,7 +2203,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2212,7 +2212,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2236,7 +2236,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "up": {
           "uv": [
@@ -2245,7 +2245,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "north": {
           "uv": [
@@ -2254,7 +2254,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2263,7 +2263,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2272,7 +2272,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2281,7 +2281,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2305,7 +2305,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "up": {
           "uv": [
@@ -2314,7 +2314,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "north": {
           "uv": [
@@ -2323,7 +2323,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2332,7 +2332,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2341,7 +2341,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2350,7 +2350,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2374,7 +2374,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 90
         },
         "up": {
@@ -2384,7 +2384,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 270
         },
         "north": {
@@ -2394,7 +2394,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2403,7 +2403,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2412,7 +2412,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2421,7 +2421,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2445,7 +2445,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 90
         },
         "up": {
@@ -2455,7 +2455,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 270
         },
         "north": {
@@ -2465,7 +2465,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2474,7 +2474,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2483,7 +2483,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2492,7 +2492,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2516,7 +2516,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 90
         },
         "up": {
@@ -2526,7 +2526,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 270
         },
         "north": {
@@ -2536,7 +2536,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2545,7 +2545,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2554,7 +2554,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2563,7 +2563,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2587,7 +2587,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 90
         },
         "up": {
@@ -2597,7 +2597,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 270
         },
         "north": {
@@ -2607,7 +2607,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2616,7 +2616,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2625,7 +2625,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2634,7 +2634,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2658,7 +2658,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 90
         },
         "up": {
@@ -2668,7 +2668,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 270
         },
         "north": {
@@ -2678,7 +2678,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2687,7 +2687,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2696,7 +2696,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2705,7 +2705,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2729,7 +2729,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 90
         },
         "up": {
@@ -2739,7 +2739,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 270
         },
         "north": {
@@ -2749,7 +2749,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2758,7 +2758,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2767,7 +2767,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2776,7 +2776,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2800,7 +2800,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 90
         },
         "up": {
@@ -2810,7 +2810,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 270
         },
         "north": {
@@ -2820,7 +2820,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2829,7 +2829,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2838,7 +2838,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2847,7 +2847,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2871,7 +2871,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 90
         },
         "up": {
@@ -2881,7 +2881,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 270
         },
         "north": {
@@ -2891,7 +2891,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2900,7 +2900,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2909,7 +2909,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2918,7 +2918,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -2942,7 +2942,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 90
         },
         "up": {
@@ -2952,7 +2952,7 @@
             1,
             15
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 270
         },
         "north": {
@@ -2962,7 +2962,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -2971,7 +2971,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -2980,7 +2980,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -2989,7 +2989,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -3013,7 +3013,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 90
         },
         "up": {
@@ -3023,7 +3023,7 @@
             1,
             1
           ],
-          "texture": "#dark_oak_log",
+          "texture": "#log_big_oak",
           "rotation": 270
         },
         "north": {
@@ -3033,7 +3033,7 @@
             16,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "south": {
           "uv": [
@@ -3042,7 +3042,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "west": {
           "uv": [
@@ -3051,7 +3051,7 @@
             15,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         },
         "east": {
           "uv": [
@@ -3060,7 +3060,7 @@
             1,
             16
           ],
-          "texture": "#dark_oak_log"
+          "texture": "#log_big_oak"
         }
       }
     },
@@ -3093,7 +3093,7 @@
             1.5,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 90
         },
         "up": {
@@ -3103,7 +3103,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 270
         },
         "north": {
@@ -3113,7 +3113,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3122,7 +3122,7 @@
             15,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3131,7 +3131,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3140,7 +3140,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3173,7 +3173,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 90
         },
         "up": {
@@ -3183,7 +3183,7 @@
             4,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 270
         },
         "north": {
@@ -3193,7 +3193,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3202,7 +3202,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3211,7 +3211,7 @@
             14,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3220,7 +3220,7 @@
             2,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3253,7 +3253,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 90
         },
         "up": {
@@ -3263,7 +3263,7 @@
             4,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 270
         },
         "north": {
@@ -3273,7 +3273,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3282,7 +3282,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3291,7 +3291,7 @@
             14,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3300,7 +3300,7 @@
             2,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3333,7 +3333,7 @@
             1.5,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 90
         },
         "up": {
@@ -3343,7 +3343,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 270
         },
         "north": {
@@ -3353,7 +3353,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3362,7 +3362,7 @@
             15,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3371,7 +3371,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3380,7 +3380,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3413,7 +3413,7 @@
             1.5,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 180
         },
         "up": {
@@ -3423,7 +3423,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 180
         },
         "north": {
@@ -3433,7 +3433,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3442,7 +3442,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3451,7 +3451,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3460,7 +3460,7 @@
             15,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3493,7 +3493,7 @@
             1.5,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 180
         },
         "up": {
@@ -3503,7 +3503,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 180
         },
         "north": {
@@ -3513,7 +3513,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3522,7 +3522,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3531,7 +3531,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3540,7 +3540,7 @@
             15,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3573,7 +3573,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 180
         },
         "up": {
@@ -3583,7 +3583,7 @@
             4,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 180
         },
         "north": {
@@ -3593,7 +3593,7 @@
             2,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3602,7 +3602,7 @@
             14,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3611,7 +3611,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3620,7 +3620,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3653,7 +3653,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 180
         },
         "up": {
@@ -3663,7 +3663,7 @@
             4,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 180
         },
         "north": {
@@ -3673,7 +3673,7 @@
             2,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3682,7 +3682,7 @@
             14,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3691,7 +3691,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3700,7 +3700,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3733,7 +3733,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 270
         },
         "up": {
@@ -3743,7 +3743,7 @@
             4,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 90
         },
         "north": {
@@ -3753,7 +3753,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3762,7 +3762,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3771,7 +3771,7 @@
             2,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3780,7 +3780,7 @@
             14,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3813,7 +3813,7 @@
             1.5,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 270
         },
         "up": {
@@ -3823,7 +3823,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 90
         },
         "north": {
@@ -3833,7 +3833,7 @@
             15,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3842,7 +3842,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3851,7 +3851,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3860,7 +3860,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3893,7 +3893,7 @@
             1.5,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 270
         },
         "up": {
@@ -3903,7 +3903,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 90
         },
         "north": {
@@ -3913,7 +3913,7 @@
             15,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -3922,7 +3922,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -3931,7 +3931,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -3940,7 +3940,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -3973,7 +3973,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 270
         },
         "up": {
@@ -3983,7 +3983,7 @@
             4,
             15
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 90
         },
         "north": {
@@ -3993,7 +3993,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -4002,7 +4002,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -4011,7 +4011,7 @@
             2,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -4020,7 +4020,7 @@
             14,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -4053,7 +4053,7 @@
             1.5,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -4062,7 +4062,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -4071,7 +4071,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -4080,7 +4080,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -4089,7 +4089,7 @@
             15,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -4098,7 +4098,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -4131,7 +4131,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -4140,7 +4140,7 @@
             4,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -4149,7 +4149,7 @@
             14,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -4158,7 +4158,7 @@
             2,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -4167,7 +4167,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -4176,7 +4176,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -4209,7 +4209,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -4218,7 +4218,7 @@
             4,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -4227,7 +4227,7 @@
             14,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -4236,7 +4236,7 @@
             2,
             13
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -4245,7 +4245,7 @@
             15,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -4254,7 +4254,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -4287,7 +4287,7 @@
             1.5,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -4296,7 +4296,7 @@
             1,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -4305,7 +4305,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -4314,7 +4314,7 @@
             2,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -4323,7 +4323,7 @@
             15,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -4332,7 +4332,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -4365,7 +4365,7 @@
             16,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "up": {
           "uv": [
@@ -4374,7 +4374,7 @@
             16,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "north": {
           "uv": [
@@ -4383,7 +4383,7 @@
             16,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "south": {
           "uv": [
@@ -4392,7 +4392,7 @@
             16,
             16
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "west": {
           "uv": [
@@ -4401,7 +4401,7 @@
             1,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "east": {
           "uv": [
@@ -4410,7 +4410,7 @@
             15,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         }
       }
     },
@@ -4443,7 +4443,7 @@
             16,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "up": {
           "uv": [
@@ -4452,7 +4452,7 @@
             16,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "north": {
           "uv": [
@@ -4461,7 +4461,7 @@
             14,
             6
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "south": {
           "uv": [
@@ -4470,7 +4470,7 @@
             15,
             15
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "west": {
           "uv": [
@@ -4479,7 +4479,7 @@
             1,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "east": {
           "uv": [
@@ -4488,7 +4488,7 @@
             15,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         }
       }
     },
@@ -4521,7 +4521,7 @@
             16,
             1
           ],
-          "texture": "#light_blue_wool",
+          "texture": "#wool_colored_light_blue",
           "rotation": 90
         },
         "up": {
@@ -4531,7 +4531,7 @@
             16,
             1
           ],
-          "texture": "#light_blue_wool",
+          "texture": "#wool_colored_light_blue",
           "rotation": 270
         },
         "north": {
@@ -4541,7 +4541,7 @@
             15,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "south": {
           "uv": [
@@ -4550,7 +4550,7 @@
             1,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "west": {
           "uv": [
@@ -4559,7 +4559,7 @@
             14,
             6
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "east": {
           "uv": [
@@ -4568,7 +4568,7 @@
             15.5,
             16
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         }
       }
     },
@@ -4601,7 +4601,7 @@
             16,
             1
           ],
-          "texture": "#light_blue_wool",
+          "texture": "#wool_colored_light_blue",
           "rotation": 90
         },
         "up": {
@@ -4611,7 +4611,7 @@
             16,
             1
           ],
-          "texture": "#light_blue_wool",
+          "texture": "#wool_colored_light_blue",
           "rotation": 270
         },
         "north": {
@@ -4621,7 +4621,7 @@
             15,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "south": {
           "uv": [
@@ -4630,7 +4630,7 @@
             1.5,
             1.5
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "west": {
           "uv": [
@@ -4639,7 +4639,7 @@
             16,
             1
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         },
         "east": {
           "uv": [
@@ -4648,7 +4648,7 @@
             16,
             16
           ],
-          "texture": "#light_blue_wool"
+          "texture": "#wool_colored_light_blue"
         }
       }
     },
@@ -4681,7 +4681,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "up": {
           "uv": [
@@ -4690,7 +4690,7 @@
             14.5,
             8.5
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "north": {
           "uv": [
@@ -4699,7 +4699,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -4708,7 +4708,7 @@
             15,
             2
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -4717,7 +4717,7 @@
             1,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -4726,7 +4726,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -4759,7 +4759,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 90
         },
         "up": {
@@ -4769,7 +4769,7 @@
             13.5,
             8.5
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 270
         },
         "north": {
@@ -4779,7 +4779,7 @@
             0,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -4788,7 +4788,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -4797,7 +4797,7 @@
             0,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -4806,7 +4806,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -4839,7 +4839,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 270
         },
         "up": {
@@ -4849,7 +4849,7 @@
             13.5,
             8.5
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 90
         },
         "north": {
@@ -4859,7 +4859,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -4868,7 +4868,7 @@
             0,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -4877,7 +4877,7 @@
             16,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -4886,7 +4886,7 @@
             0,
             1
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -4919,7 +4919,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 180
         },
         "up": {
@@ -4929,7 +4929,7 @@
             14.5,
             8.5
           ],
-          "texture": "#polished_andesite",
+          "texture": "#stone_andesite_smooth",
           "rotation": 180
         },
         "north": {
@@ -4939,7 +4939,7 @@
             15,
             2
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "south": {
           "uv": [
@@ -4948,7 +4948,7 @@
             1,
             15
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "west": {
           "uv": [
@@ -4957,7 +4957,7 @@
             0,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         },
         "east": {
           "uv": [
@@ -4966,7 +4966,7 @@
             1,
             16
           ],
-          "texture": "#polished_andesite"
+          "texture": "#stone_andesite_smooth"
         }
       }
     },
@@ -4990,7 +4990,7 @@
             1,
             15
           ],
-          "texture": "#redstone_lamp"
+          "texture": "#redstone_lamp_off"
         },
         "up": {
           "uv": [
@@ -4999,7 +4999,7 @@
             16,
             16
           ],
-          "texture": "#redstone_lamp"
+          "texture": "#redstone_lamp_off"
         }
       }
     },
@@ -5023,7 +5023,7 @@
             1,
             15
           ],
-          "texture": "#redstone_lamp"
+          "texture": "#redstone_lamp_off"
         },
         "up": {
           "uv": [
@@ -5032,7 +5032,7 @@
             16,
             16
           ],
-          "texture": "#redstone_lamp"
+          "texture": "#redstone_lamp_off"
         }
       }
     },
@@ -5056,7 +5056,7 @@
             1,
             15
           ],
-          "texture": "#redstone_lamp"
+          "texture": "#redstone_lamp_off"
         },
         "up": {
           "uv": [
@@ -5065,7 +5065,7 @@
             16,
             16
           ],
-          "texture": "#redstone_lamp"
+          "texture": "#redstone_lamp_off"
         }
       }
     }

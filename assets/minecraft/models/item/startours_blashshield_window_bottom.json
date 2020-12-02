@@ -646,7 +646,7 @@
             15.49,
             1.99
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         },
         "up": {
           "uv": [
@@ -655,7 +655,7 @@
             15.49,
             14.99
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         },
         "north": {
           "uv": [
@@ -664,7 +664,7 @@
             15.99,
             0.9899998
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         },
         "south": {
           "uv": [
@@ -673,7 +673,7 @@
             15.49,
             0.9899998
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         },
         "west": {
           "uv": [
@@ -682,7 +682,7 @@
             14.99,
             0.9899998
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         },
         "east": {
           "uv": [
@@ -691,7 +691,7 @@
             1.99,
             0.9899998
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         }
       }
     },
@@ -1819,7 +1819,7 @@
             15.49,
             1.99
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         },
         "up": {
           "uv": [
@@ -1828,7 +1828,7 @@
             15.49,
             14.99
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         },
         "north": {
           "uv": [
@@ -1837,7 +1837,7 @@
             15.99,
             0.9899998
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         },
         "south": {
           "uv": [
@@ -1846,7 +1846,7 @@
             15.49,
             0.9899998
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         },
         "west": {
           "uv": [
@@ -1855,7 +1855,7 @@
             14.99,
             0.9899998
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         },
         "east": {
           "uv": [
@@ -1864,7 +1864,7 @@
             1.99,
             0.9899998
           ],
-          "texture": "#texture1"
+          "texture": "#texture"
         }
       }
     },

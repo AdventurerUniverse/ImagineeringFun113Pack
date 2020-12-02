@@ -3,7 +3,7 @@
   "textures": {
     "particle": "block/e_particle",
     "texture": "block/e_texture",
-    "note_block": "block/note_block",
+    "noteblock": "block/note_block",
     "spruce": "block/spruce_planks"
   },
   "elements": [
@@ -27,7 +27,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -36,7 +36,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -45,7 +45,7 @@
             2,
             15
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -54,7 +54,7 @@
             2,
             15
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -63,7 +63,7 @@
             2,
             15
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -72,7 +72,7 @@
             2,
             15
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },
@@ -96,7 +96,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -105,7 +105,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -114,7 +114,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -123,7 +123,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -132,7 +132,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -141,7 +141,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },
@@ -165,7 +165,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -174,7 +174,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -183,7 +183,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -192,7 +192,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -201,7 +201,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -210,7 +210,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },
@@ -234,7 +234,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -243,7 +243,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -252,7 +252,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -261,7 +261,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -270,7 +270,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -279,7 +279,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },
@@ -303,7 +303,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -312,7 +312,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -321,7 +321,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -330,7 +330,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -339,7 +339,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -348,7 +348,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },
@@ -372,7 +372,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -381,7 +381,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -390,7 +390,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -399,7 +399,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -408,7 +408,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -417,7 +417,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },
@@ -441,7 +441,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -450,7 +450,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -459,7 +459,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -468,7 +468,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -477,7 +477,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -486,7 +486,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },
@@ -510,7 +510,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -519,7 +519,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -528,7 +528,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -537,7 +537,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -546,7 +546,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -555,7 +555,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },
@@ -579,7 +579,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -588,7 +588,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -597,7 +597,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -606,7 +606,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -615,7 +615,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -624,7 +624,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },
@@ -648,7 +648,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -657,7 +657,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -666,7 +666,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -675,7 +675,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -684,7 +684,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -693,7 +693,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },
@@ -717,7 +717,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "up": {
           "uv": [
@@ -726,7 +726,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "north": {
           "uv": [
@@ -735,7 +735,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "south": {
           "uv": [
@@ -744,7 +744,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "west": {
           "uv": [
@@ -753,7 +753,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         },
         "east": {
           "uv": [
@@ -762,7 +762,7 @@
             8,
             10
           ],
-          "texture": "#note_block"
+          "texture": "#noteblock"
         }
       }
     },

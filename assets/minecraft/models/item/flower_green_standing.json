@@ -3,11 +3,11 @@
   "textures": {
     "particle": "block/e_particle",
     "texture": "block/e_texture",
-    "Leaftxt": "custom/green_wool",
-    "Vines": "custom/lime_terracotta",
-    "Red": "custom/red_wool",
-    "Cyan": "custom/cyan_wool",
-    "Yellow": "custom/yellow_wool"
+    "Leaftxt": "custom/wool_colored_green",
+    "Vines": "custom/hardened_clay_stained_lime",
+    "Red": "custom/wool_colored_red",
+    "Cyan": "custom/wool_colored_cyan",
+    "Yellow": "custom/wool_colored_yellow"
   },
   "elements": [
     {

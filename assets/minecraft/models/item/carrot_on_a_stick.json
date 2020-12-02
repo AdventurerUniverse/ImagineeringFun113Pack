@@ -3,9 +3,9 @@
   "textures": {
     "particle": "block/e_particle",
     "stone_slab_top": "block/stone_slab_top",
-    "black_concrete": "block/black_concrete",
-    "jungle_planks": "block/jungle_planks",
-    "yellow_terracotta": "block/yellow_terracotta"
+    "concrete_black": "block/black_concrete",
+    "planks_jungle": "block/jungle_planks",
+    "hardened_clay_stained_yellow": "block/yellow_terracotta"
   },
   "elements": [
     {
@@ -78,7 +78,7 @@
       }
     },
     {
-      "__comment": "black_concrete",
+      "__comment": "concrete_black",
       "from": [
         6.6,
         6,
@@ -106,7 +106,7 @@
             7,
             14.5
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -115,7 +115,7 @@
             7,
             2
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -124,7 +124,7 @@
             9.5,
             10
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -133,7 +133,7 @@
             7,
             10
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -142,7 +142,7 @@
             2,
             10
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -151,12 +151,12 @@
             14.5,
             10
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
     {
-      "__comment": "black_concrete",
+      "__comment": "concrete_black",
       "from": [
         7.7,
         5.4,
@@ -175,7 +175,7 @@
             8.7,
             13
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -184,7 +184,7 @@
             8.7,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -193,7 +193,7 @@
             8.3,
             10.6
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -202,7 +202,7 @@
             8.7,
             10.6
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -211,7 +211,7 @@
             16,
             10.6
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -220,12 +220,12 @@
             13,
             10.6
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
     {
-      "__comment": "yellow_terracotta",
+      "__comment": "hardened_clay_stained_yellow",
       "from": [
         7.25,
         5,
@@ -244,7 +244,7 @@
             8.5,
             4
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -253,7 +253,7 @@
             8.5,
             13
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -262,7 +262,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -271,7 +271,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -280,7 +280,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -289,12 +289,12 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
     {
-      "__comment": "yellow_terracotta",
+      "__comment": "hardened_clay_stained_yellow",
       "from": [
         8,
         5,
@@ -313,7 +313,7 @@
             8.5,
             4
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -322,7 +322,7 @@
             8.5,
             13
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -331,7 +331,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -340,7 +340,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -349,7 +349,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -358,12 +358,12 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
     {
-      "__comment": "yellow_terracotta",
+      "__comment": "hardened_clay_stained_yellow",
       "from": [
         8,
         5,
@@ -382,7 +382,7 @@
             8.5,
             4
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -391,7 +391,7 @@
             8.5,
             13
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -400,7 +400,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -409,7 +409,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -418,7 +418,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -427,7 +427,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -570,7 +570,7 @@
       }
     },
     {
-      "__comment": "yellow_terracotta",
+      "__comment": "hardened_clay_stained_yellow",
       "from": [
         8,
         5,
@@ -589,7 +589,7 @@
             8.5,
             4
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -598,7 +598,7 @@
             8.5,
             13
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -607,7 +607,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -616,7 +616,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -625,7 +625,7 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -634,12 +634,12 @@
             8,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
     {
-      "__comment": "jungle_planks",
+      "__comment": "planks_jungle",
       "from": [
         7.5,
         3,
@@ -658,7 +658,7 @@
             16,
             12
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "up": {
           "uv": [
@@ -667,7 +667,7 @@
             16,
             12
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "north": {
           "uv": [
@@ -676,7 +676,7 @@
             9,
             13
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "south": {
           "uv": [
@@ -685,7 +685,7 @@
             9.5,
             13
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "west": {
           "uv": [
@@ -694,7 +694,7 @@
             9.5,
             13
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "east": {
           "uv": [
@@ -703,12 +703,12 @@
             9.5,
             13
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         }
       }
     },
     {
-      "__comment": "jungle_planks",
+      "__comment": "planks_jungle",
       "from": [
         7,
         4.5,
@@ -727,7 +727,7 @@
             9.5,
             13
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "up": {
           "uv": [
@@ -736,7 +736,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "north": {
           "uv": [
@@ -745,7 +745,7 @@
             9,
             11.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "south": {
           "uv": [
@@ -754,7 +754,7 @@
             9.5,
             11.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "west": {
           "uv": [
@@ -763,7 +763,7 @@
             12.5,
             11.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "east": {
           "uv": [
@@ -772,12 +772,12 @@
             13,
             11.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         }
       }
     },
     {
-      "__comment": "jungle_planks",
+      "__comment": "planks_jungle",
       "from": [
         7,
         4.5,
@@ -796,7 +796,7 @@
             9.5,
             15
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "up": {
           "uv": [
@@ -805,7 +805,7 @@
             9.5,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "north": {
           "uv": [
@@ -814,7 +814,7 @@
             9,
             11.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "south": {
           "uv": [
@@ -823,7 +823,7 @@
             9.5,
             11.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "west": {
           "uv": [
@@ -832,7 +832,7 @@
             3,
             11.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "east": {
           "uv": [
@@ -841,7 +841,7 @@
             15,
             11.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         }
       }
     },
@@ -865,7 +865,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -874,7 +874,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -883,7 +883,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -892,7 +892,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -901,7 +901,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -910,7 +910,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
@@ -934,7 +934,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "up": {
           "uv": [
@@ -943,7 +943,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "north": {
           "uv": [
@@ -952,7 +952,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "south": {
           "uv": [
@@ -961,7 +961,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "west": {
           "uv": [
@@ -970,7 +970,7 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         },
         "east": {
           "uv": [
@@ -979,12 +979,12 @@
             16,
             16
           ],
-          "texture": "#yellow_terracotta"
+          "texture": "#hardened_clay_stained_yellow"
         }
       }
     },
     {
-      "__comment": "jungle_planks",
+      "__comment": "planks_jungle",
       "from": [
         7,
         3.5,
@@ -1003,7 +1003,7 @@
             16,
             13
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "up": {
           "uv": [
@@ -1012,7 +1012,7 @@
             16,
             13
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "north": {
           "uv": [
@@ -1021,7 +1021,7 @@
             9,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "south": {
           "uv": [
@@ -1030,7 +1030,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "west": {
           "uv": [
@@ -1039,7 +1039,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "east": {
           "uv": [
@@ -1048,12 +1048,12 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         }
       }
     },
     {
-      "__comment": "jungle_planks",
+      "__comment": "planks_jungle",
       "from": [
         7,
         4,
@@ -1072,7 +1072,7 @@
             9.5,
             16
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "up": {
           "uv": [
@@ -1081,7 +1081,7 @@
             9.5,
             1
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "north": {
           "uv": [
@@ -1090,7 +1090,7 @@
             9,
             12
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "south": {
           "uv": [
@@ -1099,7 +1099,7 @@
             9.5,
             12
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "west": {
           "uv": [
@@ -1108,7 +1108,7 @@
             1,
             12
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "east": {
           "uv": [
@@ -1117,12 +1117,12 @@
             16,
             12
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         }
       }
     },
     {
-      "__comment": "black_concrete",
+      "__comment": "concrete_black",
       "from": [
         8,
         6.4,
@@ -1141,7 +1141,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -1150,7 +1150,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -1159,7 +1159,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -1168,7 +1168,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -1177,7 +1177,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -1186,12 +1186,12 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
     {
-      "__comment": "jungle_planks",
+      "__comment": "planks_jungle",
       "from": [
         7.5,
         3.5,
@@ -1210,7 +1210,7 @@
             15,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "up": {
           "uv": [
@@ -1219,7 +1219,7 @@
             15,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "north": {
           "uv": [
@@ -1228,7 +1228,7 @@
             9,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "south": {
           "uv": [
@@ -1237,7 +1237,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "west": {
           "uv": [
@@ -1246,7 +1246,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "east": {
           "uv": [
@@ -1255,12 +1255,12 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         }
       }
     },
     {
-      "__comment": "jungle_planks",
+      "__comment": "planks_jungle",
       "from": [
         9,
         4,
@@ -1279,7 +1279,7 @@
             6.5,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "up": {
           "uv": [
@@ -1288,7 +1288,7 @@
             6.5,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "north": {
           "uv": [
@@ -1297,7 +1297,7 @@
             9,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "south": {
           "uv": [
@@ -1306,7 +1306,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "west": {
           "uv": [
@@ -1315,7 +1315,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "east": {
           "uv": [
@@ -1324,12 +1324,12 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         }
       }
     },
     {
-      "__comment": "jungle_planks",
+      "__comment": "planks_jungle",
       "from": [
         9,
         3.5,
@@ -1348,7 +1348,7 @@
             6.5,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "up": {
           "uv": [
@@ -1357,7 +1357,7 @@
             6.5,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "north": {
           "uv": [
@@ -1366,7 +1366,7 @@
             9,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "south": {
           "uv": [
@@ -1375,7 +1375,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "west": {
           "uv": [
@@ -1384,7 +1384,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "east": {
           "uv": [
@@ -1393,12 +1393,12 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         }
       }
     },
     {
-      "__comment": "jungle_planks",
+      "__comment": "planks_jungle",
       "from": [
         7,
         3.5,
@@ -1417,7 +1417,7 @@
             6.5,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "up": {
           "uv": [
@@ -1426,7 +1426,7 @@
             6.5,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "north": {
           "uv": [
@@ -1435,7 +1435,7 @@
             9,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "south": {
           "uv": [
@@ -1444,7 +1444,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "west": {
           "uv": [
@@ -1453,7 +1453,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "east": {
           "uv": [
@@ -1462,12 +1462,12 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         }
       }
     },
     {
-      "__comment": "jungle_planks",
+      "__comment": "planks_jungle",
       "from": [
         7,
         4,
@@ -1486,7 +1486,7 @@
             6.5,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "up": {
           "uv": [
@@ -1495,7 +1495,7 @@
             6.5,
             3
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "north": {
           "uv": [
@@ -1504,7 +1504,7 @@
             9,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "south": {
           "uv": [
@@ -1513,7 +1513,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "west": {
           "uv": [
@@ -1522,7 +1522,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         },
         "east": {
           "uv": [
@@ -1531,7 +1531,7 @@
             9.5,
             12.5
           ],
-          "texture": "#jungle_planks"
+          "texture": "#planks_jungle"
         }
       }
     }

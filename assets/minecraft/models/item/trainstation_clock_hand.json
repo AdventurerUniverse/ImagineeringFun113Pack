@@ -3,7 +3,7 @@
   "textures": {
     "particle": "block/e_particle",
     "quartz_block_top": "block/quartz_block_top",
-    "black_concrete": "block/black_concrete",
+    "concrete_black": "block/black_concrete",
     "gold_block": "block/gold_block"
   },
   "elements": [
@@ -27,7 +27,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -36,7 +36,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -45,7 +45,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -54,7 +54,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -63,7 +63,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -72,7 +72,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
@@ -96,7 +96,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -105,7 +105,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -114,7 +114,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -123,7 +123,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -132,7 +132,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -141,7 +141,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
@@ -165,7 +165,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -174,7 +174,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -183,7 +183,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -192,7 +192,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -201,7 +201,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -210,7 +210,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
@@ -234,7 +234,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -243,7 +243,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -252,7 +252,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -261,7 +261,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -270,7 +270,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -279,7 +279,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
@@ -303,7 +303,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -312,7 +312,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -321,7 +321,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -330,7 +330,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -339,7 +339,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -348,7 +348,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
@@ -372,7 +372,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -381,7 +381,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -390,7 +390,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -399,7 +399,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -408,7 +408,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -417,7 +417,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
@@ -441,7 +441,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -450,7 +450,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -459,7 +459,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -468,7 +468,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -477,7 +477,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -486,7 +486,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
@@ -510,7 +510,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -519,7 +519,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -528,7 +528,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -537,7 +537,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -546,7 +546,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -555,7 +555,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
@@ -579,7 +579,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -588,7 +588,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -597,7 +597,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -606,7 +606,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -615,7 +615,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -624,7 +624,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
@@ -648,7 +648,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -657,7 +657,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -666,7 +666,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -675,7 +675,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -684,7 +684,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -693,7 +693,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     },
@@ -717,7 +717,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "up": {
           "uv": [
@@ -726,7 +726,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "north": {
           "uv": [
@@ -735,7 +735,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "south": {
           "uv": [
@@ -744,7 +744,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "west": {
           "uv": [
@@ -753,7 +753,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         },
         "east": {
           "uv": [
@@ -762,7 +762,7 @@
             16,
             16
           ],
-          "texture": "#black_concrete"
+          "texture": "#concrete_black"
         }
       }
     }

@@ -3,7 +3,7 @@
   "textures": {
     "particle": "block/e_particle",
     "texture": "custom/lafittelanding",
-    "black": "custom/black_wool",
+    "black": "custom/wool_colored_black",
     "log1": "block/spruce_log_top",
     "log2": "block/spruce_log"
   },

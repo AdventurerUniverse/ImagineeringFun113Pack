@@ -3,7 +3,7 @@
   "textures": {
     "particle": "block/e_particle",
     "quartz_block_top": "block/quartz_block_top",
-    "black_concrete": "block/black_concrete",
+    "concrete_black": "block/black_concrete",
     "gold_block": "block/gold_block"
   },
   "elements": [

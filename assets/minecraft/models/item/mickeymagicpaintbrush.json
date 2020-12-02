@@ -3,7 +3,7 @@
   "textures": {
     "particle": "block/e_particle",
     "lapis_block": "block/lapis_block",
-    "light_gray_wool": "block/light_gray_wool",
+    "wool_colored_silver": "block/light_gray_wool",
     "glow_test": "custom/glow_test"
   },
   "elements": [
@@ -2649,7 +2649,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -2658,7 +2658,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -2667,7 +2667,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -2676,7 +2676,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -2685,7 +2685,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -2694,7 +2694,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
@@ -4236,7 +4236,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -4245,7 +4245,7 @@
             15.5,
             4
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -4254,7 +4254,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -4263,7 +4263,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -4272,7 +4272,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -4281,7 +4281,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
@@ -4305,7 +4305,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "up": {
           "uv": [
@@ -4314,7 +4314,7 @@
             13.5,
             4.5
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "north": {
           "uv": [
@@ -4323,7 +4323,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "south": {
           "uv": [
@@ -4332,7 +4332,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "west": {
           "uv": [
@@ -4341,7 +4341,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         },
         "east": {
           "uv": [
@@ -4350,7 +4350,7 @@
             16,
             16
           ],
-          "texture": "#light_gray_wool"
+          "texture": "#wool_colored_silver"
         }
       }
     },
@@ -10377,9 +10377,9 @@
     },
     "head": {
       "scale": [
-        0.0001,
-        0.0001,
-        0.0001
+        0.6001,
+        0.6001,
+        0.6001
       ]
     },
     "ground": {
